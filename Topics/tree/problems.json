@@ -4,8 +4,28 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-20T17:21:21.780Z",
+  "updatedAt": "2026-09-20T17:21:39.492Z",
   "problems": [
+    {
+      "frontendId": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "problemName": "0094-binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "folderPath": "0094-binary-tree-inorder-traversal/",
+      "readmePath": "0094-binary-tree-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0094-binary-tree-inorder-traversal.java",
+          "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
+          "sha": "22782c7bb388e3b93ba15a05b59323192edd8a5d",
+          "lastSyncedAt": "2026-09-20T17:21:39.492Z"
+        }
+      ]
+    },
     {
       "frontendId": "114",
       "title": "Flatten Binary Tree to Linked List",
