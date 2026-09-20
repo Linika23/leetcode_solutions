@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-20T17:21:49.635Z",
+  "updatedAt": "2026-09-20T17:30:11.077Z",
   "problems": [
     {
       "frontendId": "297",
@@ -22,7 +22,7 @@
           "filename": "0297-serialize-and-deserialize-binary-tree.java",
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.java",
           "sha": "eafc28bd5839c8e36c2f2921f912b9283fa958ae",
-          "lastSyncedAt": "2026-09-20T17:21:49.635Z"
+          "lastSyncedAt": "2026-09-20T17:30:11.077Z"
         }
       ]
     }
