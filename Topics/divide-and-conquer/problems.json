@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-20T17:22:22.404Z",
+  "updatedAt": "2026-09-20T17:30:22.916Z",
   "problems": [
     {
       "frontendId": "105",
@@ -42,7 +42,7 @@
           "filename": "0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "sha": "40d4e683287b1751951ba674667b9e6ff2903a0f",
-          "lastSyncedAt": "2026-09-20T17:22:08.066Z"
+          "lastSyncedAt": "2026-09-20T17:30:22.916Z"
         }
       ]
     }
