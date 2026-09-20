@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-20T17:32:19.264Z",
+  "updatedAt": "2026-09-20T17:32:25.202Z",
   "problems": [
     {
       "frontendId": "94",
@@ -102,7 +102,7 @@
           "filename": "0104-maximum-depth-of-binary-tree.java",
           "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.java",
           "sha": "bdf4532dba60b04ead964463a52bf7f0ed72a54e",
-          "lastSyncedAt": "2026-09-20T17:24:57.344Z"
+          "lastSyncedAt": "2026-09-20T17:32:25.202Z"
         }
       ]
     },
