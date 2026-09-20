@@ -4,6 +4,27 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-20T17:17:17.152Z",
-  "problems": []
+  "updatedAt": "2026-09-20T17:24:25.698Z",
+  "problems": [
+    {
+      "frontendId": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "problemName": "0124-binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+      "folderPath": "0124-binary-tree-maximum-path-sum/",
+      "readmePath": "0124-binary-tree-maximum-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0124-binary-tree-maximum-path-sum.java",
+          "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
+          "sha": "2448ee7af8a64b36d4165586f05ca9c740243eb1",
+          "lastSyncedAt": "2026-09-20T17:24:25.698Z"
+        }
+      ]
+    }
+  ]
 }
