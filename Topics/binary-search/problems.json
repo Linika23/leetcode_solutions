@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-20T17:22:34.282Z",
+  "updatedAt": "2026-09-20T17:30:41.246Z",
   "problems": [
     {
       "frontendId": "222",
@@ -22,7 +22,7 @@
           "filename": "0222-count-complete-tree-nodes.java",
           "path": "0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.java",
           "sha": "b77f5153e7353fed5d3a63fd5af4d3d5975d0fa4",
-          "lastSyncedAt": "2026-09-20T17:22:34.282Z"
+          "lastSyncedAt": "2026-09-20T17:30:41.246Z"
         }
       ]
     }
