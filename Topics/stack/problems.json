@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-20T17:29:54.340Z",
+  "updatedAt": "2026-09-20T17:30:04.965Z",
   "problems": [
     {
       "frontendId": "94",
@@ -22,7 +22,7 @@
           "filename": "0094-binary-tree-inorder-traversal.java",
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
           "sha": "22782c7bb388e3b93ba15a05b59323192edd8a5d",
-          "lastSyncedAt": "2026-09-20T17:21:39.492Z"
+          "lastSyncedAt": "2026-09-20T17:30:04.965Z"
         }
       ]
     },
