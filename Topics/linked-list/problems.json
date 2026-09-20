@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-20T17:21:21.780Z",
+  "updatedAt": "2026-09-20T17:29:54.340Z",
   "problems": [
     {
       "frontendId": "114",
@@ -22,7 +22,7 @@
           "filename": "0114-flatten-binary-tree-to-linked-list.java",
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.java",
           "sha": "63ce7908cc6c8f9140635ecebd21957261d11b9a",
-          "lastSyncedAt": "2026-09-20T17:21:21.780Z"
+          "lastSyncedAt": "2026-09-20T17:29:54.340Z"
         }
       ]
     }
