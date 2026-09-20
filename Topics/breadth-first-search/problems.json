@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-20T17:30:49.254Z",
+  "updatedAt": "2026-09-20T17:30:57.605Z",
   "problems": [
     {
       "frontendId": "100",
@@ -162,7 +162,7 @@
           "filename": "0863-all-nodes-distance-k-in-binary-tree.java",
           "path": "0863-all-nodes-distance-k-in-binary-tree/0863-all-nodes-distance-k-in-binary-tree.java",
           "sha": "a333d3f3d15baf0e820bf154d2a3c5e9ed10bc3b",
-          "lastSyncedAt": "2026-09-20T17:22:57.834Z"
+          "lastSyncedAt": "2026-09-20T17:30:57.605Z"
         }
       ]
     },
