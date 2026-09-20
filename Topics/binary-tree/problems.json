@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-20T17:31:39.545Z",
+  "updatedAt": "2026-09-20T17:31:49.090Z",
   "problems": [
     {
       "frontendId": "94",
@@ -82,7 +82,7 @@
           "filename": "0103-binary-tree-zigzag-level-order-traversal.java",
           "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.java",
           "sha": "1d7a1b5f2582a2d793fafcdb5397e967faba81af",
-          "lastSyncedAt": "2026-09-20T17:24:07.388Z"
+          "lastSyncedAt": "2026-09-20T17:31:49.090Z"
         }
       ]
     },
