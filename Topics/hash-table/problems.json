@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-20T17:22:45.749Z",
+  "updatedAt": "2026-09-20T17:22:57.834Z",
   "problems": [
     {
       "frontendId": "105",
@@ -43,6 +43,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "sha": "40d4e683287b1751951ba674667b9e6ff2903a0f",
           "lastSyncedAt": "2026-09-20T17:22:08.066Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "863",
+      "title": "All Nodes Distance K in Binary Tree",
+      "slug": "all-nodes-distance-k-in-binary-tree",
+      "problemName": "0863-all-nodes-distance-k-in-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+      "folderPath": "0863-all-nodes-distance-k-in-binary-tree/",
+      "readmePath": "0863-all-nodes-distance-k-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0863-all-nodes-distance-k-in-binary-tree.java",
+          "path": "0863-all-nodes-distance-k-in-binary-tree/0863-all-nodes-distance-k-in-binary-tree.java",
+          "sha": "a333d3f3d15baf0e820bf154d2a3c5e9ed10bc3b",
+          "lastSyncedAt": "2026-09-20T17:22:57.834Z"
         }
       ]
     },
