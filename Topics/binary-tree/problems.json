@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-20T17:24:15.251Z",
+  "updatedAt": "2026-09-20T17:24:25.698Z",
   "problems": [
     {
       "frontendId": "94",
@@ -143,6 +143,26 @@
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.java",
           "sha": "63ce7908cc6c8f9140635ecebd21957261d11b9a",
           "lastSyncedAt": "2026-09-20T17:21:21.780Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "124",
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "problemName": "0124-binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+      "folderPath": "0124-binary-tree-maximum-path-sum/",
+      "readmePath": "0124-binary-tree-maximum-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0124-binary-tree-maximum-path-sum.java",
+          "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
+          "sha": "2448ee7af8a64b36d4165586f05ca9c740243eb1",
+          "lastSyncedAt": "2026-09-20T17:24:25.698Z"
         }
       ]
     },
