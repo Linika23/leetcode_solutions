@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-20T17:31:32.799Z",
+  "updatedAt": "2026-09-20T17:31:39.545Z",
   "problems": [
     {
       "frontendId": "94",
@@ -282,7 +282,7 @@
           "filename": "0987-vertical-order-traversal-of-a-binary-tree.java",
           "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.java",
           "sha": "21238a0ffba65691a8f658b075fa9e9f46f1ee5e",
-          "lastSyncedAt": "2026-09-20T17:23:52.517Z"
+          "lastSyncedAt": "2026-09-20T17:31:39.545Z"
         }
       ]
     },
