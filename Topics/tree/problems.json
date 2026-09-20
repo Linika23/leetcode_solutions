@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-20T17:23:33.061Z",
+  "updatedAt": "2026-09-20T17:23:42.892Z",
   "problems": [
     {
       "frontendId": "94",
@@ -103,6 +103,26 @@
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.java",
           "sha": "63ce7908cc6c8f9140635ecebd21957261d11b9a",
           "lastSyncedAt": "2026-09-20T17:21:21.780Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "0199-binary-tree-right-side-view/",
+      "readmePath": "0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0199-binary-tree-right-side-view.java",
+          "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
+          "sha": "b0680880f3e4339c1c9964ead89503d19fb8c85d",
+          "lastSyncedAt": "2026-09-20T17:23:42.892Z"
         }
       ]
     },
