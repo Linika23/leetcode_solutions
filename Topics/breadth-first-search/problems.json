@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-20T17:21:49.635Z",
+  "updatedAt": "2026-09-20T17:22:45.749Z",
   "problems": [
     {
       "frontendId": "297",
@@ -23,6 +23,26 @@
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.java",
           "sha": "eafc28bd5839c8e36c2f2921f912b9283fa958ae",
           "lastSyncedAt": "2026-09-20T17:21:49.635Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2385",
+      "title": "Amount of Time for Binary Tree to Be Infected",
+      "slug": "amount-of-time-for-binary-tree-to-be-infected",
+      "problemName": "2385-amount-of-time-for-binary-tree-to-be-infected",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/",
+      "folderPath": "2385-amount-of-time-for-binary-tree-to-be-infected/",
+      "readmePath": "2385-amount-of-time-for-binary-tree-to-be-infected/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2385-amount-of-time-for-binary-tree-to-be-infected.java",
+          "path": "2385-amount-of-time-for-binary-tree-to-be-infected/2385-amount-of-time-for-binary-tree-to-be-infected.java",
+          "sha": "1eaa7af4b4408d3ccc8cac03f1ad9b67afc201b1",
+          "lastSyncedAt": "2026-09-20T17:22:45.749Z"
         }
       ]
     }
