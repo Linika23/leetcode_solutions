@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-20T17:30:41.246Z",
+  "updatedAt": "2026-09-20T17:30:49.254Z",
   "problems": [
     {
       "frontendId": "94",
@@ -382,7 +382,7 @@
           "filename": "2385-amount-of-time-for-binary-tree-to-be-infected.java",
           "path": "2385-amount-of-time-for-binary-tree-to-be-infected/2385-amount-of-time-for-binary-tree-to-be-infected.java",
           "sha": "1eaa7af4b4408d3ccc8cac03f1ad9b67afc201b1",
-          "lastSyncedAt": "2026-09-20T17:22:45.749Z"
+          "lastSyncedAt": "2026-09-20T17:30:49.254Z"
         }
       ]
     }
