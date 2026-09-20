@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-20T17:23:33.061Z",
+  "updatedAt": "2026-09-20T17:23:42.892Z",
   "problems": [
     {
       "frontendId": "101",
@@ -23,6 +23,26 @@
           "path": "0101-symmetric-tree/0101-symmetric-tree.java",
           "sha": "931f620f7a00422ec7ac2ea8bb8853e17b9f7ece",
           "lastSyncedAt": "2026-09-20T17:23:33.061Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "199",
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "problemName": "0199-binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "folderPath": "0199-binary-tree-right-side-view/",
+      "readmePath": "0199-binary-tree-right-side-view/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0199-binary-tree-right-side-view.java",
+          "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.java",
+          "sha": "b0680880f3e4339c1c9964ead89503d19fb8c85d",
+          "lastSyncedAt": "2026-09-20T17:23:42.892Z"
         }
       ]
     },
