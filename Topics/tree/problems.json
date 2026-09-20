@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-20T17:23:52.517Z",
+  "updatedAt": "2026-09-20T17:24:07.388Z",
   "problems": [
     {
       "frontendId": "94",
@@ -43,6 +43,26 @@
           "path": "0101-symmetric-tree/0101-symmetric-tree.java",
           "sha": "931f620f7a00422ec7ac2ea8bb8853e17b9f7ece",
           "lastSyncedAt": "2026-09-20T17:23:33.061Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "problemName": "0103-binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "folderPath": "0103-binary-tree-zigzag-level-order-traversal/",
+      "readmePath": "0103-binary-tree-zigzag-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0103-binary-tree-zigzag-level-order-traversal.java",
+          "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.java",
+          "sha": "1d7a1b5f2582a2d793fafcdb5397e967faba81af",
+          "lastSyncedAt": "2026-09-20T17:24:07.388Z"
         }
       ]
     },
