@@ -4,7 +4,7 @@
     "slug": "lowest-common-ancestor",
     "name": "Lowest Common Ancestor"
   },
-  "updatedAt": "2026-09-20T17:23:18.111Z",
+  "updatedAt": "2026-09-20T17:31:14.360Z",
   "problems": [
     {
       "frontendId": "236",
@@ -22,7 +22,7 @@
           "filename": "0236-lowest-common-ancestor-of-a-binary-tree.java",
           "path": "0236-lowest-common-ancestor-of-a-binary-tree/0236-lowest-common-ancestor-of-a-binary-tree.java",
           "sha": "f8b145c221d90cf3d8f0af2a808bd37c90355bc4",
-          "lastSyncedAt": "2026-09-20T17:23:18.111Z"
+          "lastSyncedAt": "2026-09-20T17:31:14.360Z"
         }
       ]
     }
