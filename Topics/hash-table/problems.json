@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-20T17:22:22.404Z",
+  "updatedAt": "2026-09-20T17:22:45.749Z",
   "problems": [
     {
       "frontendId": "105",
@@ -43,6 +43,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "sha": "40d4e683287b1751951ba674667b9e6ff2903a0f",
           "lastSyncedAt": "2026-09-20T17:22:08.066Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2385",
+      "title": "Amount of Time for Binary Tree to Be Infected",
+      "slug": "amount-of-time-for-binary-tree-to-be-infected",
+      "problemName": "2385-amount-of-time-for-binary-tree-to-be-infected",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/",
+      "folderPath": "2385-amount-of-time-for-binary-tree-to-be-infected/",
+      "readmePath": "2385-amount-of-time-for-binary-tree-to-be-infected/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2385-amount-of-time-for-binary-tree-to-be-infected.java",
+          "path": "2385-amount-of-time-for-binary-tree-to-be-infected/2385-amount-of-time-for-binary-tree-to-be-infected.java",
+          "sha": "1eaa7af4b4408d3ccc8cac03f1ad9b67afc201b1",
+          "lastSyncedAt": "2026-09-20T17:22:45.749Z"
         }
       ]
     }
