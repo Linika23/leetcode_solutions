@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-20T17:30:22.916Z",
+  "updatedAt": "2026-09-20T17:30:32.204Z",
   "problems": [
     {
       "frontendId": "66",
@@ -42,7 +42,7 @@
           "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.java",
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.java",
           "sha": "7e87cf811800f3f52920b8b039f3e5cb7471926f",
-          "lastSyncedAt": "2026-09-20T17:22:22.404Z"
+          "lastSyncedAt": "2026-09-20T17:30:32.204Z"
         }
       ]
     },
