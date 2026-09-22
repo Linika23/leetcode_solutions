@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-20T17:31:39.545Z",
+  "updatedAt": "2026-09-22T15:25:36.341Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "0003-longest-substring-without-repeating-characters/",
+      "readmePath": "0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0003-longest-substring-without-repeating-characters.java",
+          "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
+          "sha": "a6d45a8f2add8fa33eed58048341e2041b32a4b1",
+          "lastSyncedAt": "2026-09-22T15:25:36.341Z"
+        }
+      ]
+    },
     {
       "frontendId": "105",
       "title": "Construct Binary Tree from Preorder and Inorder Traversal",
