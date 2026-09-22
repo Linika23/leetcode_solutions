@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-20T17:32:31.859Z",
+  "updatedAt": "2026-09-22T14:20:07.006Z",
   "problems": [
     {
       "frontendId": "66",
@@ -63,6 +63,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "sha": "40d4e683287b1751951ba674667b9e6ff2903a0f",
           "lastSyncedAt": "2026-09-20T17:30:22.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1423",
+      "title": "Maximum Points You Can Obtain from Cards",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "problemName": "1423-maximum-points-you-can-obtain-from-cards",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+      "folderPath": "1423-maximum-points-you-can-obtain-from-cards/",
+      "readmePath": "1423-maximum-points-you-can-obtain-from-cards/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1423-maximum-points-you-can-obtain-from-cards.java",
+          "path": "1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.java",
+          "sha": "2b84555567fde3c9125993daef8c2d6fb04cb12a",
+          "lastSyncedAt": "2026-09-22T14:20:07.006Z"
         }
       ]
     }
