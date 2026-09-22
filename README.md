@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 7 | 11 | 3 |
+| 22 | 7 | 12 | 3 |
 
 ## Activity
 
@@ -25,22 +25,22 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-09-14 | 2 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 2 |
-| 2026-09-22 | 1 |
+| 2026-09-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 19 | 90% |
-| Tree | 19 | 90% |
-| Depth-First Search | 15 | 71% |
-| Breadth-First Search | 10 | 48% |
-| Hash Table | 5 | 24% |
-| Array | 4 | 19% |
-| Divide and Conquer | 2 | 10% |
-| DP on Trees | 2 | 10% |
-| Stack | 2 | 10% |
-| Binary Lifting | 1 | 5% |
+| Binary Tree | 19 | 86% |
+| Tree | 19 | 86% |
+| Depth-First Search | 15 | 68% |
+| Breadth-First Search | 10 | 45% |
+| Hash Table | 6 | 27% |
+| Array | 4 | 18% |
+| Divide and Conquer | 2 | 9% |
+| DP on Trees | 2 | 9% |
+| Sliding Window | 2 | 9% |
+| Stack | 2 | 9% |
 
 ## Topics
 
@@ -60,16 +60,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 1 |
+| [String](Topics/string/) | 2 |
 | [Tree](Topics/tree/) | 19 |
 <!---LeetHub Summary End-->
