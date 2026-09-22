@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-09-22T14:20:07.006Z",
+  "problems": [
+    {
+      "frontendId": "1423",
+      "title": "Maximum Points You Can Obtain from Cards",
+      "slug": "maximum-points-you-can-obtain-from-cards",
+      "problemName": "1423-maximum-points-you-can-obtain-from-cards",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+      "folderPath": "1423-maximum-points-you-can-obtain-from-cards/",
+      "readmePath": "1423-maximum-points-you-can-obtain-from-cards/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1423-maximum-points-you-can-obtain-from-cards.java",
+          "path": "1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.java",
+          "sha": "2b84555567fde3c9125993daef8c2d6fb04cb12a",
+          "lastSyncedAt": "2026-09-22T14:20:07.006Z"
+        }
+      ]
+    }
+  ]
+}
