@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-20T17:32:25.202Z",
+  "updatedAt": "2026-09-28T07:46:02.265Z",
   "problems": [
     {
       "frontendId": "94",
@@ -323,6 +323,26 @@
           "path": "0662-maximum-width-of-binary-tree/0662-maximum-width-of-binary-tree.java",
           "sha": "8517eea11235b51ba27a24be05253ddc4b250274",
           "lastSyncedAt": "2026-09-20T17:31:07.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "0700-search-in-a-binary-search-tree/",
+      "readmePath": "0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0700-search-in-a-binary-search-tree.java",
+          "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.java",
+          "sha": "94a3678629bac4d397b8cc66926d9ec67b11b78c",
+          "lastSyncedAt": "2026-09-28T07:46:02.265Z"
         }
       ]
     },
