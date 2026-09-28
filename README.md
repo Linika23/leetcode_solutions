@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 8 | 14 | 3 |
+| 26 | 8 | 15 | 3 |
 
 ## Activity
 
@@ -26,19 +26,19 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-09-18 | 1 |
 | 2026-09-19 | 2 |
 | 2026-09-22 | 2 |
-| 2026-09-28 | 3 |
+| 2026-09-28 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 22 | 88% |
-| Tree | 22 | 88% |
-| Depth-First Search | 15 | 60% |
-| Breadth-First Search | 10 | 40% |
-| Hash Table | 6 | 24% |
-| Array | 4 | 16% |
-| Binary Search Tree | 3 | 12% |
+| Binary Tree | 23 | 88% |
+| Tree | 23 | 88% |
+| Depth-First Search | 16 | 62% |
+| Breadth-First Search | 10 | 38% |
+| Hash Table | 6 | 23% |
+| Array | 4 | 15% |
+| Binary Search Tree | 4 | 15% |
 | Divide and Conquer | 2 | 8% |
 | DP on Trees | 2 | 8% |
 | Sliding Window | 2 | 8% |
@@ -51,12 +51,12 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 1 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 3 |
-| [Binary Tree](Topics/binary-tree/) | 22 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 23 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 10 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 15 |
+| [Depth-First Search](Topics/depth-first-search/) | 16 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
@@ -73,5 +73,5 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 2 |
-| [Tree](Topics/tree/) | 22 |
+| [Tree](Topics/tree/) | 23 |
 <!---LeetHub Summary End-->
