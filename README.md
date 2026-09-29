@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 8 | 16 | 3 |
+| 28 | 8 | 17 | 3 |
 
 ## Activity
 
@@ -27,22 +27,22 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-09-19 | 2 |
 | 2026-09-22 | 2 |
 | 2026-09-28 | 4 |
-| 2026-09-29 | 1 |
+| 2026-09-29 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 24 | 89% |
-| Tree | 24 | 89% |
-| Depth-First Search | 17 | 63% |
-| Breadth-First Search | 10 | 37% |
-| Hash Table | 6 | 22% |
-| Binary Search Tree | 5 | 19% |
-| Array | 4 | 15% |
+| Binary Tree | 25 | 89% |
+| Tree | 25 | 89% |
+| Depth-First Search | 18 | 64% |
+| Breadth-First Search | 10 | 36% |
+| Binary Search Tree | 6 | 21% |
+| Hash Table | 6 | 21% |
+| Array | 4 | 14% |
+| Binary Lifting | 2 | 7% |
 | Divide and Conquer | 2 | 7% |
 | DP on Trees | 2 | 7% |
-| Sliding Window | 2 | 7% |
 
 ## Topics
 
@@ -50,14 +50,14 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | --- | ---: |
 | [Array](Topics/array/) | 4 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Lifting](Topics/binary-lifting/) | 1 |
+| [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 5 |
-| [Binary Tree](Topics/binary-tree/) | 24 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 6 |
+| [Binary Tree](Topics/binary-tree/) | 25 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 10 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 17 |
+| [Depth-First Search](Topics/depth-first-search/) | 18 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
@@ -66,7 +66,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 1 |
+| [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
@@ -74,5 +74,5 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 2 |
-| [Tree](Topics/tree/) | 24 |
+| [Tree](Topics/tree/) | 25 |
 <!---LeetHub Summary End-->
