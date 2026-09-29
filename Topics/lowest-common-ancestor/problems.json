@@ -4,8 +4,28 @@
     "slug": "lowest-common-ancestor",
     "name": "Lowest Common Ancestor"
   },
-  "updatedAt": "2026-09-20T17:31:14.360Z",
+  "updatedAt": "2026-09-29T08:19:44.754Z",
   "problems": [
+    {
+      "frontendId": "235",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "problemName": "0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      "folderPath": "0235-lowest-common-ancestor-of-a-binary-search-tree/",
+      "readmePath": "0235-lowest-common-ancestor-of-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.java",
+          "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.java",
+          "sha": "a624ce78dbe1340fdeeeeabd159dec173269fa65",
+          "lastSyncedAt": "2026-09-29T08:19:44.754Z"
+        }
+      ]
+    },
     {
       "frontendId": "236",
       "title": "Lowest Common Ancestor of a Binary Tree",
