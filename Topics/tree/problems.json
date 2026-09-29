@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-28T09:36:44.595Z",
+  "updatedAt": "2026-09-29T07:29:26.329Z",
   "problems": [
     {
       "frontendId": "94",
@@ -23,6 +23,26 @@
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
           "sha": "22782c7bb388e3b93ba15a05b59323192edd8a5d",
           "lastSyncedAt": "2026-09-20T17:30:04.965Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "0098-validate-binary-search-tree/",
+      "readmePath": "0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0098-validate-binary-search-tree.java",
+          "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.java",
+          "sha": "7234c1dd21750f5231cd8ff88edcd3407abd6848",
+          "lastSyncedAt": "2026-09-29T07:29:26.329Z"
         }
       ]
     },
