@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack"
+  },
+  "updatedAt": "2026-09-29T09:03:59.785Z",
+  "problems": [
+    {
+      "frontendId": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "problemName": "1008-construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+      "folderPath": "1008-construct-binary-search-tree-from-preorder-traversal/",
+      "readmePath": "1008-construct-binary-search-tree-from-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1008-construct-binary-search-tree-from-preorder-traversal.java",
+          "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.java",
+          "sha": "f972548beff66d8952442d7cc2e2666dcb6add53",
+          "lastSyncedAt": "2026-09-29T09:03:59.785Z"
+        }
+      ]
+    }
+  ]
+}
