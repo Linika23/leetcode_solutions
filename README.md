@@ -6,13 +6,13 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 8 | 18 | 3 |
+| 30 | 8 | 19 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 5 days | 12 |
+| 3 days | 5 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,21 +28,22 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-09-22 | 2 |
 | 2026-09-28 | 4 |
 | 2026-09-29 | 3 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 26 | 90% |
-| Tree | 26 | 90% |
-| Depth-First Search | 18 | 62% |
-| Breadth-First Search | 10 | 34% |
-| Binary Search Tree | 7 | 24% |
-| Hash Table | 6 | 21% |
+| Binary Tree | 27 | 90% |
+| Tree | 27 | 90% |
+| Depth-First Search | 18 | 60% |
+| Breadth-First Search | 10 | 33% |
+| Binary Search Tree | 8 | 27% |
+| Hash Table | 6 | 20% |
 | Array | 5 | 17% |
-| Stack | 3 | 10% |
+| Stack | 4 | 13% |
 | Binary Lifting | 2 | 7% |
-| Divide and Conquer | 2 | 7% |
+| Design | 2 | 7% |
 
 ## Topics
 
@@ -52,19 +53,20 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 7 |
-| [Binary Tree](Topics/binary-tree/) | 26 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 8 |
+| [Binary Tree](Topics/binary-tree/) | 27 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 10 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 18 |
-| [Design](Topics/design/) | 1 |
+| [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
+| [Iterator](Topics/iterator/) | 1 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 1 |
@@ -73,7 +75,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
-| [Stack](Topics/stack/) | 3 |
+| [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 2 |
-| [Tree](Topics/tree/) | 26 |
+| [Tree](Topics/tree/) | 27 |
 <!---LeetHub Summary End-->
