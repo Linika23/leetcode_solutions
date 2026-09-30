@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-30T15:22:57.672Z",
+  "updatedAt": "2026-09-30T17:42:41.865Z",
   "problems": [
     {
       "frontendId": "94",
@@ -43,6 +43,26 @@
           "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.java",
           "sha": "7234c1dd21750f5231cd8ff88edcd3407abd6848",
           "lastSyncedAt": "2026-09-29T07:29:26.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "99",
+      "title": "Recover Binary Search Tree",
+      "slug": "recover-binary-search-tree",
+      "problemName": "0099-recover-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/recover-binary-search-tree/",
+      "folderPath": "0099-recover-binary-search-tree/",
+      "readmePath": "0099-recover-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0099-recover-binary-search-tree.java",
+          "path": "0099-recover-binary-search-tree/0099-recover-binary-search-tree.java",
+          "sha": "b86f898c665368fb10caabc92c56031f8de791a8",
+          "lastSyncedAt": "2026-09-30T17:42:41.865Z"
         }
       ]
     },
