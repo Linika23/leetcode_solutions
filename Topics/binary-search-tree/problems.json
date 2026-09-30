@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-29T09:03:59.785Z",
+  "updatedAt": "2026-09-30T14:25:44.242Z",
   "problems": [
     {
       "frontendId": "98",
@@ -23,6 +23,26 @@
           "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.java",
           "sha": "7234c1dd21750f5231cd8ff88edcd3407abd6848",
           "lastSyncedAt": "2026-09-29T07:29:26.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "173",
+      "title": "Binary Search Tree Iterator",
+      "slug": "binary-search-tree-iterator",
+      "problemName": "0173-binary-search-tree-iterator",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search-tree-iterator/",
+      "folderPath": "0173-binary-search-tree-iterator/",
+      "readmePath": "0173-binary-search-tree-iterator/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0173-binary-search-tree-iterator.java",
+          "path": "0173-binary-search-tree-iterator/0173-binary-search-tree-iterator.java",
+          "sha": "7b04ba055ed895f65dcdaac4ebd6d6c1904f2755",
+          "lastSyncedAt": "2026-09-30T14:25:44.242Z"
         }
       ]
     },
