@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-09-30T15:22:24.698Z",
+  "problems": [
+    {
+      "frontendId": "653",
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "problemName": "0653-two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "folderPath": "0653-two-sum-iv-input-is-a-bst/",
+      "readmePath": "0653-two-sum-iv-input-is-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0653-two-sum-iv-input-is-a-bst.java",
+          "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.java",
+          "sha": "2ffd623e131572583254dc4977139f6107ede076",
+          "lastSyncedAt": "2026-09-30T15:22:24.698Z"
+        }
+      ]
+    }
+  ]
+}
