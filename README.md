@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 9 | 19 | 3 |
+| 32 | 9 | 20 | 3 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-09-22 | 2 |
 | 2026-09-28 | 4 |
 | 2026-09-29 | 3 |
-| 2026-09-30 | 2 |
+| 2026-09-30 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 28 | 90% |
-| Tree | 28 | 90% |
-| Depth-First Search | 19 | 61% |
-| Breadth-First Search | 11 | 35% |
-| Binary Search Tree | 9 | 29% |
-| Hash Table | 7 | 23% |
+| Binary Tree | 29 | 91% |
+| Tree | 29 | 91% |
+| Depth-First Search | 20 | 63% |
+| Breadth-First Search | 11 | 34% |
+| Binary Search Tree | 10 | 31% |
+| Hash Table | 7 | 22% |
 | Array | 5 | 16% |
 | Stack | 4 | 13% |
 | Binary Lifting | 2 | 6% |
@@ -53,12 +53,12 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 9 |
-| [Binary Tree](Topics/binary-tree/) | 28 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 10 |
+| [Binary Tree](Topics/binary-tree/) | 29 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 11 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 19 |
+| [Depth-First Search](Topics/depth-first-search/) | 20 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
@@ -77,6 +77,6 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 2 |
-| [Tree](Topics/tree/) | 28 |
+| [Tree](Topics/tree/) | 29 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
