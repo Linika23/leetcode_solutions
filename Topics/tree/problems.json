@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-30T14:25:44.242Z",
+  "updatedAt": "2026-09-30T15:22:24.698Z",
   "problems": [
     {
       "frontendId": "94",
@@ -403,6 +403,26 @@
           "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.java",
           "sha": "592795ca4b7efb45a35c13bc047d34d1acc8b1c1",
           "lastSyncedAt": "2026-09-20T17:32:11.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "653",
+      "title": "Two Sum IV - Input is a BST",
+      "slug": "two-sum-iv-input-is-a-bst",
+      "problemName": "0653-two-sum-iv-input-is-a-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "folderPath": "0653-two-sum-iv-input-is-a-bst/",
+      "readmePath": "0653-two-sum-iv-input-is-a-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0653-two-sum-iv-input-is-a-bst.java",
+          "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.java",
+          "sha": "2ffd623e131572583254dc4977139f6107ede076",
+          "lastSyncedAt": "2026-09-30T15:22:24.698Z"
         }
       ]
     },
