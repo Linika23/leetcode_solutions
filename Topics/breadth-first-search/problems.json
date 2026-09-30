@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-30T15:22:24.698Z",
+  "updatedAt": "2026-09-30T15:22:57.672Z",
   "problems": [
     {
       "frontendId": "100",
@@ -142,7 +142,7 @@
           "filename": "0653-two-sum-iv-input-is-a-bst.java",
           "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.java",
           "sha": "2ffd623e131572583254dc4977139f6107ede076",
-          "lastSyncedAt": "2026-09-30T15:22:24.698Z"
+          "lastSyncedAt": "2026-09-30T15:22:57.672Z"
         }
       ]
     },
