@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-30T14:25:44.242Z",
+  "updatedAt": "2026-10-02T15:41:13.783Z",
   "problems": [
     {
       "frontendId": "173",
@@ -43,6 +43,26 @@
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.java",
           "sha": "eafc28bd5839c8e36c2f2921f912b9283fa958ae",
           "lastSyncedAt": "2026-09-20T17:30:11.077Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "703",
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "problemName": "0703-kth-largest-element-in-a-stream",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "folderPath": "0703-kth-largest-element-in-a-stream/",
+      "readmePath": "0703-kth-largest-element-in-a-stream/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0703-kth-largest-element-in-a-stream.java",
+          "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.java",
+          "sha": "b949515b770d9f2cd9a4d3135cf3f81192c3d510",
+          "lastSyncedAt": "2026-10-02T15:41:13.783Z"
         }
       ]
     }
