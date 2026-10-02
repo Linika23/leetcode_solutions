@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T18:18:16.574Z",
+  "updatedAt": "2026-10-02T19:04:35.461Z",
   "problems": [
     {
       "frontendId": "66",
@@ -63,6 +63,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "sha": "40d4e683287b1751951ba674667b9e6ff2903a0f",
           "lastSyncedAt": "2026-09-20T17:30:22.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "846",
+      "title": "Hand of Straights",
+      "slug": "hand-of-straights",
+      "problemName": "0846-hand-of-straights",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/hand-of-straights/",
+      "folderPath": "0846-hand-of-straights/",
+      "readmePath": "0846-hand-of-straights/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0846-hand-of-straights.java",
+          "path": "0846-hand-of-straights/0846-hand-of-straights.java",
+          "sha": "e0d61658bc04f8aee6897a2c5f3d89a4d37b415a",
+          "lastSyncedAt": "2026-10-02T19:04:35.461Z"
         }
       ]
     },
