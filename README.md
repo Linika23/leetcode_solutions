@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 10 | 20 | 4 |
+| 35 | 10 | 21 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 14 |
+| 2 days | 5 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-06 | 1 |
 | 2026-09-08 | 3 |
 | 2026-09-10 | 3 |
 | 2026-09-11 | 3 |
@@ -30,19 +29,20 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-09-29 | 3 |
 | 2026-09-30 | 3 |
 | 2026-10-02 | 2 |
+| 2026-10-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 88% |
-| Tree | 30 | 88% |
-| Depth-First Search | 20 | 59% |
-| Binary Search Tree | 11 | 32% |
-| Breadth-First Search | 11 | 32% |
-| Hash Table | 7 | 21% |
-| Array | 5 | 15% |
-| Stack | 4 | 12% |
+| Binary Tree | 30 | 86% |
+| Tree | 30 | 86% |
+| Depth-First Search | 20 | 57% |
+| Binary Search Tree | 11 | 31% |
+| Breadth-First Search | 11 | 31% |
+| Hash Table | 8 | 23% |
+| Array | 6 | 17% |
+| Stack | 4 | 11% |
 | Design | 3 | 9% |
 | Divide and Conquer | 3 | 9% |
 
@@ -50,7 +50,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 5 |
+| [Array](Topics/array/) | 7 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -66,7 +66,8 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Greedy](Topics/greedy/) | 1 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Iterator](Topics/iterator/) | 1 |
@@ -78,7 +79,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 1 |
+| [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 2 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
