@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 33 | 10 | 20 | 3 |
+| 34 | 10 | 20 | 4 |
 
 ## Activity
 
@@ -29,22 +29,22 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-09-28 | 4 |
 | 2026-09-29 | 3 |
 | 2026-09-30 | 3 |
-| 2026-10-02 | 1 |
+| 2026-10-02 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 91% |
-| Tree | 30 | 91% |
-| Depth-First Search | 20 | 61% |
-| Binary Search Tree | 11 | 33% |
-| Breadth-First Search | 11 | 33% |
+| Binary Tree | 30 | 88% |
+| Tree | 30 | 88% |
+| Depth-First Search | 20 | 59% |
+| Binary Search Tree | 11 | 32% |
+| Breadth-First Search | 11 | 32% |
 | Hash Table | 7 | 21% |
 | Array | 5 | 15% |
 | Stack | 4 | 12% |
 | Design | 3 | 9% |
-| Binary Lifting | 2 | 6% |
+| Divide and Conquer | 3 | 9% |
 
 ## Topics
 
@@ -62,24 +62,26 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 20 |
 | [Design](Topics/design/) | 3 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Iterator](Topics/iterator/) | 1 |
-| [Linked List](Topics/linked-list/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 0 |
+| [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 2 |
+| [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 30 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
