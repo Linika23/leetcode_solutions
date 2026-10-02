@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T09:03:59.785Z",
+  "updatedAt": "2026-10-02T18:18:16.574Z",
   "problems": [
     {
       "frontendId": "66",
@@ -83,6 +83,26 @@
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.java",
           "sha": "f972548beff66d8952442d7cc2e2666dcb6add53",
           "lastSyncedAt": "2026-09-29T09:03:59.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1331",
+      "title": "Rank Transform of an Array",
+      "slug": "rank-transform-of-an-array",
+      "problemName": "1331-rank-transform-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-an-array/",
+      "folderPath": "1331-rank-transform-of-an-array/",
+      "readmePath": "1331-rank-transform-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1331-rank-transform-of-an-array.java",
+          "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.java",
+          "sha": "efc1e74ee13c166f3394b07a6d5ad291eed7287b",
+          "lastSyncedAt": "2026-10-02T18:18:16.574Z"
         }
       ]
     },
