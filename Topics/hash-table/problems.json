@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T15:22:57.672Z",
+  "updatedAt": "2026-10-02T19:04:35.461Z",
   "problems": [
     {
       "frontendId": "3",
@@ -83,6 +83,26 @@
           "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.java",
           "sha": "2ffd623e131572583254dc4977139f6107ede076",
           "lastSyncedAt": "2026-09-30T15:22:57.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "846",
+      "title": "Hand of Straights",
+      "slug": "hand-of-straights",
+      "problemName": "0846-hand-of-straights",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/hand-of-straights/",
+      "folderPath": "0846-hand-of-straights/",
+      "readmePath": "0846-hand-of-straights/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0846-hand-of-straights.java",
+          "path": "0846-hand-of-straights/0846-hand-of-straights.java",
+          "sha": "e0d61658bc04f8aee6897a2c5f3d89a4d37b415a",
+          "lastSyncedAt": "2026-10-02T19:04:35.461Z"
         }
       ]
     },
