@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy"
+  },
+  "updatedAt": "2026-10-02T19:04:35.461Z",
+  "problems": [
+    {
+      "frontendId": "846",
+      "title": "Hand of Straights",
+      "slug": "hand-of-straights",
+      "problemName": "0846-hand-of-straights",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/hand-of-straights/",
+      "folderPath": "0846-hand-of-straights/",
+      "readmePath": "0846-hand-of-straights/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0846-hand-of-straights.java",
+          "path": "0846-hand-of-straights/0846-hand-of-straights.java",
+          "sha": "e0d61658bc04f8aee6897a2c5f3d89a4d37b415a",
+          "lastSyncedAt": "2026-10-02T19:04:35.461Z"
+        }
+      ]
+    }
+  ]
+}
