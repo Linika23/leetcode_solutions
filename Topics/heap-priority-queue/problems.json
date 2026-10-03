@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-10-03T16:12:10.251Z",
+  "updatedAt": "2026-10-03T16:38:37.944Z",
   "problems": [
     {
       "frontendId": "23",
@@ -83,6 +83,26 @@
           "path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.java",
           "sha": "b949515b770d9f2cd9a4d3135cf3f81192c3d510",
           "lastSyncedAt": "2026-10-02T15:41:13.783Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1962",
+      "title": "Remove Stones to Minimize the Total",
+      "slug": "remove-stones-to-minimize-the-total",
+      "problemName": "1962-remove-stones-to-minimize-the-total",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/",
+      "folderPath": "1962-remove-stones-to-minimize-the-total/",
+      "readmePath": "1962-remove-stones-to-minimize-the-total/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1962-remove-stones-to-minimize-the-total.java",
+          "path": "1962-remove-stones-to-minimize-the-total/1962-remove-stones-to-minimize-the-total.java",
+          "sha": "d467baf7b7c822b157a2b36ed2f30eb67b9b458f",
+          "lastSyncedAt": "2026-10-03T16:38:37.944Z"
         }
       ]
     }
