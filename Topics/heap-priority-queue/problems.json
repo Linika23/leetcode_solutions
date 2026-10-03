@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-10-03T15:47:34.026Z",
+  "updatedAt": "2026-10-03T16:12:10.251Z",
   "problems": [
     {
       "frontendId": "23",
@@ -23,6 +23,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.java",
           "sha": "4019eae7bd969c2ffa7c07e75618fd5f2282d6e8",
           "lastSyncedAt": "2026-10-02T17:22:51.314Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0295-find-median-from-data-stream.java",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.java",
+          "sha": "f445792c7b55f943b057961ac173178822accd16",
+          "lastSyncedAt": "2026-10-03T16:12:10.251Z"
         }
       ]
     },
