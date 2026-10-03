@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T19:04:35.461Z",
+  "updatedAt": "2026-10-03T16:38:37.944Z",
   "problems": [
     {
       "frontendId": "66",
@@ -143,6 +143,26 @@
           "path": "1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.java",
           "sha": "2b84555567fde3c9125993daef8c2d6fb04cb12a",
           "lastSyncedAt": "2026-09-22T14:20:07.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1962",
+      "title": "Remove Stones to Minimize the Total",
+      "slug": "remove-stones-to-minimize-the-total",
+      "problemName": "1962-remove-stones-to-minimize-the-total",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/",
+      "folderPath": "1962-remove-stones-to-minimize-the-total/",
+      "readmePath": "1962-remove-stones-to-minimize-the-total/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1962-remove-stones-to-minimize-the-total.java",
+          "path": "1962-remove-stones-to-minimize-the-total/1962-remove-stones-to-minimize-the-total.java",
+          "sha": "d467baf7b7c822b157a2b36ed2f30eb67b9b458f",
+          "lastSyncedAt": "2026-10-03T16:38:37.944Z"
         }
       ]
     }
