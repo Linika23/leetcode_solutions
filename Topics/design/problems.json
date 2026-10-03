@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-10-02T15:41:13.783Z",
+  "updatedAt": "2026-10-03T16:12:10.251Z",
   "problems": [
     {
       "frontendId": "173",
@@ -23,6 +23,26 @@
           "path": "0173-binary-search-tree-iterator/0173-binary-search-tree-iterator.java",
           "sha": "7b04ba055ed895f65dcdaac4ebd6d6c1904f2755",
           "lastSyncedAt": "2026-09-30T14:25:44.242Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0295-find-median-from-data-stream.java",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.java",
+          "sha": "f445792c7b55f943b057961ac173178822accd16",
+          "lastSyncedAt": "2026-10-03T16:12:10.251Z"
         }
       ]
     },
