@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-04T14:33:58.915Z",
+  "updatedAt": "2026-10-04T15:16:11.735Z",
   "problems": [
     {
       "frontendId": "66",
@@ -103,6 +103,26 @@
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.java",
           "sha": "f972548beff66d8952442d7cc2e2666dcb6add53",
           "lastSyncedAt": "2026-09-29T09:03:59.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "problemName": "1046-last-stone-weight",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+      "folderPath": "1046-last-stone-weight/",
+      "readmePath": "1046-last-stone-weight/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1046-last-stone-weight.java",
+          "path": "1046-last-stone-weight/1046-last-stone-weight.java",
+          "sha": "1b503f57ccdf9b118017e53c118cd0a850221936",
+          "lastSyncedAt": "2026-10-04T15:16:11.735Z"
         }
       ]
     },
