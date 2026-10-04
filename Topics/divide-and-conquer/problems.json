@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-10-02T17:22:51.314Z",
+  "updatedAt": "2026-10-04T15:41:49.948Z",
   "problems": [
     {
       "frontendId": "23",
@@ -63,6 +63,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "sha": "40d4e683287b1751951ba674667b9e6ff2903a0f",
           "lastSyncedAt": "2026-09-20T17:30:22.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0347-top-k-frequent-elements.java",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
+          "sha": "0d8bc38f992ed9fa50fe2cb0da7b1363aa834bb8",
+          "lastSyncedAt": "2026-10-04T15:41:49.948Z"
         }
       ]
     }
