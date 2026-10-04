@@ -4,8 +4,28 @@
     "slug": "bucket-sort",
     "name": "Bucket Sort"
   },
-  "updatedAt": "2026-10-03T15:47:34.026Z",
+  "updatedAt": "2026-10-04T15:41:49.948Z",
   "problems": [
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0347-top-k-frequent-elements.java",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
+          "sha": "0d8bc38f992ed9fa50fe2cb0da7b1363aa834bb8",
+          "lastSyncedAt": "2026-10-04T15:41:49.948Z"
+        }
+      ]
+    },
     {
       "frontendId": "451",
       "title": "Sort Characters By Frequency",
