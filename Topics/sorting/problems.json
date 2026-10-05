@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-04T15:41:49.948Z",
+  "updatedAt": "2026-10-05T16:21:19.475Z",
   "problems": [
     {
       "frontendId": "295",
@@ -123,6 +123,26 @@
           "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.java",
           "sha": "1200fe3d622be8dd79cc202862bad62b438b6b44",
           "lastSyncedAt": "2026-10-04T14:33:58.915Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2542",
+      "title": "Maximum Subsequence Score",
+      "slug": "maximum-subsequence-score",
+      "problemName": "2542-maximum-subsequence-score",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subsequence-score/",
+      "folderPath": "2542-maximum-subsequence-score/",
+      "readmePath": "2542-maximum-subsequence-score/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2542-maximum-subsequence-score.java",
+          "path": "2542-maximum-subsequence-score/2542-maximum-subsequence-score.java",
+          "sha": "e5f79ab276bb02a8416157c0ac8b7de383cf8657",
+          "lastSyncedAt": "2026-10-05T16:21:19.475Z"
         }
       ]
     }
