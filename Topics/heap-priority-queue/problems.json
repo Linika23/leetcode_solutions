@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-10-04T15:41:49.948Z",
+  "updatedAt": "2026-10-05T16:21:19.475Z",
   "problems": [
     {
       "frontendId": "23",
@@ -163,6 +163,26 @@
           "path": "1962-remove-stones-to-minimize-the-total/1962-remove-stones-to-minimize-the-total.java",
           "sha": "d467baf7b7c822b157a2b36ed2f30eb67b9b458f",
           "lastSyncedAt": "2026-10-03T16:38:37.944Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2542",
+      "title": "Maximum Subsequence Score",
+      "slug": "maximum-subsequence-score",
+      "problemName": "2542-maximum-subsequence-score",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subsequence-score/",
+      "folderPath": "2542-maximum-subsequence-score/",
+      "readmePath": "2542-maximum-subsequence-score/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2542-maximum-subsequence-score.java",
+          "path": "2542-maximum-subsequence-score/2542-maximum-subsequence-score.java",
+          "sha": "e5f79ab276bb02a8416157c0ac8b7de383cf8657",
+          "lastSyncedAt": "2026-10-05T16:21:19.475Z"
         }
       ]
     }
