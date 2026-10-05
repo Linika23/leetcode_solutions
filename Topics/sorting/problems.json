@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-05T16:21:19.475Z",
+  "updatedAt": "2026-10-05T16:21:27.871Z",
   "problems": [
     {
       "frontendId": "295",
@@ -142,7 +142,7 @@
           "filename": "2542-maximum-subsequence-score.java",
           "path": "2542-maximum-subsequence-score/2542-maximum-subsequence-score.java",
           "sha": "e5f79ab276bb02a8416157c0ac8b7de383cf8657",
-          "lastSyncedAt": "2026-10-05T16:21:19.475Z"
+          "lastSyncedAt": "2026-10-05T16:21:27.871Z"
         }
       ]
     }
