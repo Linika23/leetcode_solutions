@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-10-05T16:21:27.871Z",
+  "updatedAt": "2026-10-06T15:10:25.221Z",
   "problems": [
     {
       "frontendId": "23",
@@ -163,6 +163,26 @@
           "path": "1962-remove-stones-to-minimize-the-total/1962-remove-stones-to-minimize-the-total.java",
           "sha": "d467baf7b7c822b157a2b36ed2f30eb67b9b458f",
           "lastSyncedAt": "2026-10-03T16:38:37.944Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2462",
+      "title": "Total Cost to Hire K Workers",
+      "slug": "total-cost-to-hire-k-workers",
+      "problemName": "2462-total-cost-to-hire-k-workers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/total-cost-to-hire-k-workers/",
+      "folderPath": "2462-total-cost-to-hire-k-workers/",
+      "readmePath": "2462-total-cost-to-hire-k-workers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2462-total-cost-to-hire-k-workers.java",
+          "path": "2462-total-cost-to-hire-k-workers/2462-total-cost-to-hire-k-workers.java",
+          "sha": "485cb35e99e3a47cec326a7cd65b0118c4d4421d",
+          "lastSyncedAt": "2026-10-06T15:10:25.221Z"
         }
       ]
     },
