@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-10-06T15:10:25.221Z",
+  "updatedAt": "2026-10-06T16:42:50.999Z",
   "problems": [
     {
       "frontendId": "23",
@@ -63,6 +63,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
           "sha": "0d8bc38f992ed9fa50fe2cb0da7b1363aa834bb8",
           "lastSyncedAt": "2026-10-04T15:41:49.948Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "373",
+      "title": "Find K Pairs with Smallest Sums",
+      "slug": "find-k-pairs-with-smallest-sums",
+      "problemName": "0373-find-k-pairs-with-smallest-sums",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+      "folderPath": "0373-find-k-pairs-with-smallest-sums/",
+      "readmePath": "0373-find-k-pairs-with-smallest-sums/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0373-find-k-pairs-with-smallest-sums.java",
+          "path": "0373-find-k-pairs-with-smallest-sums/0373-find-k-pairs-with-smallest-sums.java",
+          "sha": "5fbf5150620070529cf1410771ac070e4f9de861",
+          "lastSyncedAt": "2026-10-06T16:42:50.999Z"
         }
       ]
     },
