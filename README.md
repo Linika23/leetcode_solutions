@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 11 | 26 | 5 |
+| 43 | 11 | 27 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 5 days | 17 |
+| 5 days | 5 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-11 | 3 |
 | 2026-09-12 | 2 |
 | 2026-09-13 | 3 |
 | 2026-09-14 | 2 |
@@ -30,27 +29,28 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-03 | 4 |
 | 2026-10-04 | 3 |
 | 2026-10-05 | 1 |
+| 2026-10-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 71% |
-| Tree | 30 | 71% |
-| Depth-First Search | 20 | 48% |
-| Array | 11 | 26% |
+| Binary Tree | 30 | 70% |
+| Tree | 30 | 70% |
+| Depth-First Search | 20 | 47% |
+| Array | 12 | 28% |
 | Binary Search Tree | 11 | 26% |
 | Breadth-First Search | 11 | 26% |
-| Hash Table | 10 | 24% |
-| Heap (Priority Queue) | 9 | 21% |
-| Sorting | 7 | 17% |
-| Design | 4 | 10% |
+| Hash Table | 10 | 23% |
+| Heap (Priority Queue) | 10 | 23% |
+| Sorting | 7 | 16% |
+| Design | 4 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 13 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -71,7 +71,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 9 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 10 |
 | [Iterator](Topics/iterator/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
@@ -81,11 +81,12 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
+| [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 3 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 30 |
-| [Two Pointers](Topics/two-pointers/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
