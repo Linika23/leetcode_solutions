@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-04T15:41:49.948Z",
+  "updatedAt": "2026-10-07T16:13:36.202Z",
   "problems": [
     {
       "frontendId": "3",
@@ -123,6 +123,26 @@
           "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.java",
           "sha": "2ffd623e131572583254dc4977139f6107ede076",
           "lastSyncedAt": "2026-09-30T15:22:57.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "767",
+      "title": "Reorganize String",
+      "slug": "reorganize-string",
+      "problemName": "0767-reorganize-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
+      "folderPath": "0767-reorganize-string/",
+      "readmePath": "0767-reorganize-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0767-reorganize-string.java",
+          "path": "0767-reorganize-string/0767-reorganize-string.java",
+          "sha": "70e0f7069e9eef4edf21c33166fea4879d374101",
+          "lastSyncedAt": "2026-10-07T16:13:36.202Z"
         }
       ]
     },
