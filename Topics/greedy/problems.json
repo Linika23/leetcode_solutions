@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-08T18:02:00.795Z",
+  "updatedAt": "2026-10-10T17:15:16.950Z",
   "problems": [
+    {
+      "frontendId": "621",
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "problemName": "0621-task-scheduler",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+      "folderPath": "0621-task-scheduler/",
+      "readmePath": "0621-task-scheduler/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0621-task-scheduler.java",
+          "path": "0621-task-scheduler/0621-task-scheduler.java",
+          "sha": "8dafad1d4e21008566b7d3a72b90b12d2b654f69",
+          "lastSyncedAt": "2026-10-10T17:15:16.950Z"
+        }
+      ]
+    },
     {
       "frontendId": "767",
       "title": "Reorganize String",
