@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-10T17:27:20.158Z",
+  "updatedAt": "2026-10-11T16:48:18.202Z",
   "problems": [
     {
       "frontendId": "23",
@@ -164,6 +164,26 @@
           "path": "0767-reorganize-string/0767-reorganize-string.java",
           "sha": "70e0f7069e9eef4edf21c33166fea4879d374101",
           "lastSyncedAt": "2026-10-07T16:13:36.202Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "857",
+      "title": "Minimum Cost to Hire K Workers",
+      "slug": "minimum-cost-to-hire-k-workers",
+      "problemName": "0857-minimum-cost-to-hire-k-workers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+      "folderPath": "0857-minimum-cost-to-hire-k-workers/",
+      "readmePath": "0857-minimum-cost-to-hire-k-workers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0857-minimum-cost-to-hire-k-workers.java",
+          "path": "0857-minimum-cost-to-hire-k-workers/0857-minimum-cost-to-hire-k-workers.java",
+          "sha": "9de5c309561dc30806539b60905788d7d88a3cfd",
+          "lastSyncedAt": "2026-10-11T16:48:18.202Z"
         }
       ]
     },
