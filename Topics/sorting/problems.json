@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-10T17:27:20.158Z",
+  "updatedAt": "2026-10-11T16:48:18.202Z",
   "problems": [
     {
       "frontendId": "295",
@@ -124,6 +124,26 @@
           "path": "0846-hand-of-straights/0846-hand-of-straights.java",
           "sha": "e0d61658bc04f8aee6897a2c5f3d89a4d37b415a",
           "lastSyncedAt": "2026-10-02T19:04:35.461Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "857",
+      "title": "Minimum Cost to Hire K Workers",
+      "slug": "minimum-cost-to-hire-k-workers",
+      "problemName": "0857-minimum-cost-to-hire-k-workers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/",
+      "folderPath": "0857-minimum-cost-to-hire-k-workers/",
+      "readmePath": "0857-minimum-cost-to-hire-k-workers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0857-minimum-cost-to-hire-k-workers.java",
+          "path": "0857-minimum-cost-to-hire-k-workers/0857-minimum-cost-to-hire-k-workers.java",
+          "sha": "9de5c309561dc30806539b60905788d7d88a3cfd",
+          "lastSyncedAt": "2026-10-11T16:48:18.202Z"
         }
       ]
     },
