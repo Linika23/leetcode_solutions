@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 11 | 31 | 6 |
+| 49 | 11 | 32 | 6 |
 
 ## Activity
 
@@ -29,22 +29,22 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
-| 2026-10-11 | 1 |
+| 2026-10-11 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 63% |
-| Tree | 30 | 63% |
-| Depth-First Search | 20 | 42% |
+| Binary Tree | 30 | 61% |
+| Tree | 30 | 61% |
+| Depth-First Search | 20 | 41% |
 | Array | 16 | 33% |
-| Heap (Priority Queue) | 15 | 31% |
-| Hash Table | 12 | 25% |
-| Binary Search Tree | 11 | 23% |
-| Breadth-First Search | 11 | 23% |
-| Sorting | 10 | 21% |
-| Greedy | 7 | 15% |
+| Heap (Priority Queue) | 16 | 33% |
+| Hash Table | 13 | 27% |
+| Binary Search Tree | 11 | 22% |
+| Breadth-First Search | 11 | 22% |
+| Sorting | 10 | 20% |
+| Greedy | 8 | 16% |
 
 ## Topics
 
@@ -68,10 +68,10 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 12 |
+| [Greedy](Topics/greedy/) | 8 |
+| [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 15 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 16 |
 | [Iterator](Topics/iterator/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
@@ -84,8 +84,8 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 10 |
-| [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 4 |
+| [Stack](Topics/stack/) | 5 |
+| [String](Topics/string/) | 5 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 30 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
