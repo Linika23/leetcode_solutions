@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-07T16:13:36.202Z",
+  "updatedAt": "2026-10-11T17:32:51.146Z",
   "problems": [
     {
       "frontendId": "3",
@@ -83,6 +84,26 @@
           "path": "0767-reorganize-string/0767-reorganize-string.java",
           "sha": "70e0f7069e9eef4edf21c33166fea4879d374101",
           "lastSyncedAt": "2026-10-07T16:13:36.202Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3170",
+      "title": "Lexicographically Minimum String After Removing Stars",
+      "slug": "lexicographically-minimum-string-after-removing-stars",
+      "problemName": "3170-lexicographically-minimum-string-after-removing-stars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/",
+      "folderPath": "3170-lexicographically-minimum-string-after-removing-stars/",
+      "readmePath": "3170-lexicographically-minimum-string-after-removing-stars/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3170-lexicographically-minimum-string-after-removing-stars.java",
+          "path": "3170-lexicographically-minimum-string-after-removing-stars/3170-lexicographically-minimum-string-after-removing-stars.java",
+          "sha": "929712ef51fd8ee167d5b913363f95b4cd658761",
+          "lastSyncedAt": "2026-10-11T17:32:51.146Z"
         }
       ]
     }
