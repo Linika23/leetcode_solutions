@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "two-pointers",
-    "name": "Two Pointers"
+    "name": "Two Pointers",
+    "tagId": "9"
   },
-  "updatedAt": "2026-10-06T15:10:25.221Z",
+  "updatedAt": "2026-10-12T17:01:20.750Z",
   "problems": [
     {
       "frontendId": "295",
@@ -23,6 +24,26 @@
           "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.java",
           "sha": "f445792c7b55f943b057961ac173178822accd16",
           "lastSyncedAt": "2026-10-03T16:12:10.251Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "0455-assign-cookies/",
+      "readmePath": "0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0455-assign-cookies.java",
+          "path": "0455-assign-cookies/0455-assign-cookies.java",
+          "sha": "d6a04e4d0c005bad6d0718849f545cc049139cc3",
+          "lastSyncedAt": "2026-10-12T17:01:20.750Z"
         }
       ]
     },
