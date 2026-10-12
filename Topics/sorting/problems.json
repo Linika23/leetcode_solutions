@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-11T16:48:18.202Z",
+  "updatedAt": "2026-10-12T17:01:20.750Z",
   "problems": [
     {
       "frontendId": "295",
@@ -64,6 +64,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "e8495ac49ddd286d9dfa9807af6d2e2cc25bf118",
           "lastSyncedAt": "2026-10-03T15:47:34.026Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "0455-assign-cookies/",
+      "readmePath": "0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0455-assign-cookies.java",
+          "path": "0455-assign-cookies/0455-assign-cookies.java",
+          "sha": "d6a04e4d0c005bad6d0718849f545cc049139cc3",
+          "lastSyncedAt": "2026-10-12T17:01:20.750Z"
         }
       ]
     },
