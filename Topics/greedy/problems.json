@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-12T17:01:20.750Z",
+  "updatedAt": "2026-10-12T17:14:32.683Z",
   "problems": [
     {
       "frontendId": "455",
@@ -104,6 +104,26 @@
           "path": "0857-minimum-cost-to-hire-k-workers/0857-minimum-cost-to-hire-k-workers.java",
           "sha": "9de5c309561dc30806539b60905788d7d88a3cfd",
           "lastSyncedAt": "2026-10-11T16:48:18.202Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "problemName": "0860-lemonade-change",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+      "folderPath": "0860-lemonade-change/",
+      "readmePath": "0860-lemonade-change/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0860-lemonade-change.java",
+          "path": "0860-lemonade-change/0860-lemonade-change.java",
+          "sha": "7383de8e3ee65e979b40ed0c74161c436082a53b",
+          "lastSyncedAt": "2026-10-12T17:14:32.683Z"
         }
       ]
     },
