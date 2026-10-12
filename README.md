@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 49 | 11 | 32 | 6 |
+| 50 | 12 | 32 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 7 days | 22 |
+| 3 days | 7 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-19 | 2 |
 | 2026-09-22 | 2 |
 | 2026-09-28 | 4 |
 | 2026-09-29 | 3 |
@@ -30,27 +29,28 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 2 |
+| 2026-10-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 61% |
-| Tree | 30 | 61% |
-| Depth-First Search | 20 | 41% |
-| Array | 16 | 33% |
-| Heap (Priority Queue) | 16 | 33% |
-| Hash Table | 13 | 27% |
+| Binary Tree | 30 | 60% |
+| Tree | 30 | 60% |
+| Depth-First Search | 20 | 40% |
+| Array | 17 | 34% |
+| Heap (Priority Queue) | 16 | 32% |
+| Hash Table | 13 | 26% |
 | Binary Search Tree | 11 | 22% |
 | Breadth-First Search | 11 | 22% |
-| Sorting | 10 | 20% |
-| Greedy | 8 | 16% |
+| Sorting | 11 | 22% |
+| Greedy | 9 | 18% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 17 |
+| [Array](Topics/array/) | 18 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -68,7 +68,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 8 |
+| [Greedy](Topics/greedy/) | 9 |
 | [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 16 |
@@ -81,12 +81,13 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
+| [Quicksort](Topics/quicksort/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 10 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 5 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 30 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
