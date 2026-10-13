@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-11T17:32:51.146Z",
+  "updatedAt": "2026-10-13T18:26:38.367Z",
   "problems": [
     {
       "frontendId": "23",
@@ -104,6 +104,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.java",
           "sha": "e8495ac49ddd286d9dfa9807af6d2e2cc25bf118",
           "lastSyncedAt": "2026-10-03T15:47:34.026Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "502",
+      "title": "IPO",
+      "slug": "ipo",
+      "problemName": "0502-ipo",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/ipo/",
+      "folderPath": "0502-ipo/",
+      "readmePath": "0502-ipo/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0502-ipo.java",
+          "path": "0502-ipo/0502-ipo.java",
+          "sha": "bafcb6c0f7565eb80ea9180562a34958358785bf",
+          "lastSyncedAt": "2026-10-13T18:26:38.367Z"
         }
       ]
     },
