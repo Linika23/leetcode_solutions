@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-12T17:01:20.750Z",
+  "updatedAt": "2026-10-13T18:26:38.367Z",
   "problems": [
     {
       "frontendId": "295",
@@ -84,6 +84,26 @@
           "path": "0455-assign-cookies/0455-assign-cookies.java",
           "sha": "d6a04e4d0c005bad6d0718849f545cc049139cc3",
           "lastSyncedAt": "2026-10-12T17:01:20.750Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "502",
+      "title": "IPO",
+      "slug": "ipo",
+      "problemName": "0502-ipo",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/ipo/",
+      "folderPath": "0502-ipo/",
+      "readmePath": "0502-ipo/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0502-ipo.java",
+          "path": "0502-ipo/0502-ipo.java",
+          "sha": "bafcb6c0f7565eb80ea9180562a34958358785bf",
+          "lastSyncedAt": "2026-10-13T18:26:38.367Z"
         }
       ]
     },
