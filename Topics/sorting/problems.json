@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-15T16:57:33.986Z",
+  "updatedAt": "2026-10-15T17:51:10.127Z",
   "problems": [
     {
       "frontendId": "295",
@@ -184,6 +184,26 @@
           "path": "0857-minimum-cost-to-hire-k-workers/0857-minimum-cost-to-hire-k-workers.java",
           "sha": "9de5c309561dc30806539b60905788d7d88a3cfd",
           "lastSyncedAt": "2026-10-11T16:48:18.202Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0881-boats-to-save-people.java",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.java",
+          "sha": "caf6d5349f819a42b197556d9f44d7a0b44f4b11",
+          "lastSyncedAt": "2026-10-15T17:51:10.127Z"
         }
       ]
     },
