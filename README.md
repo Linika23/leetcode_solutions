@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 13 | 33 | 7 |
+| 54 | 13 | 34 | 7 |
 
 ## Activity
 
@@ -29,28 +29,28 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-11 | 2 |
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
-| 2026-10-15 | 1 |
+| 2026-10-15 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 57% |
-| Tree | 30 | 57% |
-| Array | 20 | 38% |
-| Depth-First Search | 20 | 38% |
-| Heap (Priority Queue) | 17 | 32% |
-| Hash Table | 13 | 25% |
-| Sorting | 13 | 25% |
-| Greedy | 12 | 23% |
-| Binary Search Tree | 11 | 21% |
-| Breadth-First Search | 11 | 21% |
+| Binary Tree | 30 | 56% |
+| Tree | 30 | 56% |
+| Array | 21 | 39% |
+| Depth-First Search | 20 | 37% |
+| Heap (Priority Queue) | 17 | 31% |
+| Sorting | 14 | 26% |
+| Greedy | 13 | 24% |
+| Hash Table | 13 | 24% |
+| Binary Search Tree | 11 | 20% |
+| Breadth-First Search | 11 | 20% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 21 |
+| [Array](Topics/array/) | 22 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -68,7 +68,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 12 |
+| [Greedy](Topics/greedy/) | 13 |
 | [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 17 |
@@ -84,10 +84,11 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 13 |
+| [Sorting](Topics/sorting/) | 14 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 5 |
+| [Timsort](Topics/timsort/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 30 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
