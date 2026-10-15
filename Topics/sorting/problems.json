@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T18:26:38.367Z",
+  "updatedAt": "2026-10-15T16:57:33.986Z",
   "problems": [
     {
       "frontendId": "295",
@@ -184,6 +184,26 @@
           "path": "0857-minimum-cost-to-hire-k-workers/0857-minimum-cost-to-hire-k-workers.java",
           "sha": "9de5c309561dc30806539b60905788d7d88a3cfd",
           "lastSyncedAt": "2026-10-11T16:48:18.202Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "948",
+      "title": "Bag of Tokens",
+      "slug": "bag-of-tokens",
+      "problemName": "0948-bag-of-tokens",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bag-of-tokens/",
+      "folderPath": "0948-bag-of-tokens/",
+      "readmePath": "0948-bag-of-tokens/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0948-bag-of-tokens.java",
+          "path": "0948-bag-of-tokens/0948-bag-of-tokens.java",
+          "sha": "79884b8fdc1f32f08b60e4f8aeb2ff5aae4ca19c",
+          "lastSyncedAt": "2026-10-15T16:57:33.986Z"
         }
       ]
     },
