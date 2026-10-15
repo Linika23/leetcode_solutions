@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 13 | 32 | 7 |
+| 53 | 13 | 33 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 7 days | 24 |
+| 1 days | 7 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-28 | 4 |
 | 2026-09-29 | 3 |
 | 2026-09-30 | 3 |
 | 2026-10-02 | 2 |
@@ -30,27 +29,28 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-11 | 2 |
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 58% |
-| Tree | 30 | 58% |
+| Binary Tree | 30 | 57% |
+| Tree | 30 | 57% |
+| Array | 20 | 38% |
 | Depth-First Search | 20 | 38% |
-| Array | 19 | 37% |
-| Heap (Priority Queue) | 17 | 33% |
+| Heap (Priority Queue) | 17 | 32% |
 | Hash Table | 13 | 25% |
-| Sorting | 12 | 23% |
+| Sorting | 13 | 25% |
+| Greedy | 12 | 23% |
 | Binary Search Tree | 11 | 21% |
 | Breadth-First Search | 11 | 21% |
-| Greedy | 11 | 21% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 21 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -68,7 +68,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 11 |
+| [Greedy](Topics/greedy/) | 12 |
 | [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 17 |
@@ -84,10 +84,10 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 12 |
+| [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 5 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 30 |
-| [Two Pointers](Topics/two-pointers/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
