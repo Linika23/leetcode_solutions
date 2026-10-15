@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-12T17:01:20.750Z",
+  "updatedAt": "2026-10-15T16:57:33.986Z",
   "problems": [
     {
       "frontendId": "295",
@@ -64,6 +64,26 @@
           "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.java",
           "sha": "2ffd623e131572583254dc4977139f6107ede076",
           "lastSyncedAt": "2026-09-30T15:22:57.672Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "948",
+      "title": "Bag of Tokens",
+      "slug": "bag-of-tokens",
+      "problemName": "0948-bag-of-tokens",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bag-of-tokens/",
+      "folderPath": "0948-bag-of-tokens/",
+      "readmePath": "0948-bag-of-tokens/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0948-bag-of-tokens.java",
+          "path": "0948-bag-of-tokens/0948-bag-of-tokens.java",
+          "sha": "79884b8fdc1f32f08b60e4f8aeb2ff5aae4ca19c",
+          "lastSyncedAt": "2026-10-15T16:57:33.986Z"
         }
       ]
     },
