@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T18:26:38.367Z",
+  "updatedAt": "2026-10-15T16:57:33.986Z",
   "problems": [
     {
       "frontendId": "455",
@@ -144,6 +144,26 @@
           "path": "0860-lemonade-change/0860-lemonade-change.java",
           "sha": "7383de8e3ee65e979b40ed0c74161c436082a53b",
           "lastSyncedAt": "2026-10-12T17:14:32.683Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "948",
+      "title": "Bag of Tokens",
+      "slug": "bag-of-tokens",
+      "problemName": "0948-bag-of-tokens",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bag-of-tokens/",
+      "folderPath": "0948-bag-of-tokens/",
+      "readmePath": "0948-bag-of-tokens/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0948-bag-of-tokens.java",
+          "path": "0948-bag-of-tokens/0948-bag-of-tokens.java",
+          "sha": "79884b8fdc1f32f08b60e4f8aeb2ff5aae4ca19c",
+          "lastSyncedAt": "2026-10-15T16:57:33.986Z"
         }
       ]
     },
