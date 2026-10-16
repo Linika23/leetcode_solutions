@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 13 | 37 | 8 |
+| 59 | 13 | 38 | 8 |
 
 ## Activity
 
@@ -29,19 +29,19 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
 | 2026-10-15 | 2 |
-| 2026-10-16 | 4 |
+| 2026-10-16 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 52% |
-| Tree | 30 | 52% |
-| Array | 23 | 40% |
+| Binary Tree | 30 | 51% |
+| Tree | 30 | 51% |
+| Array | 24 | 41% |
 | Depth-First Search | 20 | 34% |
-| Greedy | 17 | 29% |
+| Greedy | 18 | 31% |
 | Heap (Priority Queue) | 17 | 29% |
-| Sorting | 15 | 26% |
+| Sorting | 16 | 27% |
 | Hash Table | 13 | 22% |
 | Binary Search Tree | 11 | 19% |
 | Breadth-First Search | 11 | 19% |
@@ -50,7 +50,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -68,7 +68,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 17 |
+| [Greedy](Topics/greedy/) | 18 |
 | [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 17 |
@@ -84,7 +84,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 15 |
+| [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 7 |
 | [Timsort](Topics/timsort/) | 1 |
