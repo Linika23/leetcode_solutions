@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-15T17:51:10.127Z",
+  "updatedAt": "2026-10-16T17:25:21.756Z",
   "problems": [
     {
       "frontendId": "295",
@@ -264,6 +264,26 @@
           "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.java",
           "sha": "1200fe3d622be8dd79cc202862bad62b438b6b44",
           "lastSyncedAt": "2026-10-04T14:33:58.915Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2136",
+      "title": "Earliest Possible Day of Full Bloom",
+      "slug": "earliest-possible-day-of-full-bloom",
+      "problemName": "2136-earliest-possible-day-of-full-bloom",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/earliest-possible-day-of-full-bloom/",
+      "folderPath": "2136-earliest-possible-day-of-full-bloom/",
+      "readmePath": "2136-earliest-possible-day-of-full-bloom/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2136-earliest-possible-day-of-full-bloom.java",
+          "path": "2136-earliest-possible-day-of-full-bloom/2136-earliest-possible-day-of-full-bloom.java",
+          "sha": "e52a19d82de13acd0254ffc4c5238179c8215b41",
+          "lastSyncedAt": "2026-10-16T17:25:21.756Z"
         }
       ]
     },
