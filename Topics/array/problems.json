@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T17:51:10.127Z",
+  "updatedAt": "2026-10-16T16:06:42.565Z",
   "problems": [
     {
       "frontendId": "66",
@@ -344,6 +344,26 @@
           "path": "1423-maximum-points-you-can-obtain-from-cards/1423-maximum-points-you-can-obtain-from-cards.java",
           "sha": "2b84555567fde3c9125993daef8c2d6fb04cb12a",
           "lastSyncedAt": "2026-09-22T14:20:07.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1578",
+      "title": "Minimum Time to Make Rope Colorful",
+      "slug": "minimum-time-to-make-rope-colorful",
+      "problemName": "1578-minimum-time-to-make-rope-colorful",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/",
+      "folderPath": "1578-minimum-time-to-make-rope-colorful/",
+      "readmePath": "1578-minimum-time-to-make-rope-colorful/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1578-minimum-time-to-make-rope-colorful.java",
+          "path": "1578-minimum-time-to-make-rope-colorful/1578-minimum-time-to-make-rope-colorful.java",
+          "sha": "ea4b6994db75afbf0afcdb57c05399be7f17c958",
+          "lastSyncedAt": "2026-10-16T16:06:42.565Z"
         }
       ]
     },
