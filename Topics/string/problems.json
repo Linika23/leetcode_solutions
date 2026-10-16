@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T17:32:51.146Z",
+  "updatedAt": "2026-10-16T13:46:18.843Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "0767-reorganize-string/0767-reorganize-string.java",
           "sha": "70e0f7069e9eef4edf21c33166fea4879d374101",
           "lastSyncedAt": "2026-10-07T16:13:36.202Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1328",
+      "title": "Break a Palindrome",
+      "slug": "break-a-palindrome",
+      "problemName": "1328-break-a-palindrome",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/break-a-palindrome/",
+      "folderPath": "1328-break-a-palindrome/",
+      "readmePath": "1328-break-a-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1328-break-a-palindrome.java",
+          "path": "1328-break-a-palindrome/1328-break-a-palindrome.java",
+          "sha": "7ca787b16adfbf62d3bc435de872dbfdafc43fb8",
+          "lastSyncedAt": "2026-10-16T13:46:18.843Z"
         }
       ]
     },
