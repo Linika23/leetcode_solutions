@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 13 | 34 | 7 |
+| 55 | 13 | 35 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 7 days | 25 |
+| 2 days | 7 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-29 | 3 |
 | 2026-09-30 | 3 |
 | 2026-10-02 | 2 |
 | 2026-10-03 | 4 |
@@ -30,18 +29,19 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
 | 2026-10-15 | 2 |
+| 2026-10-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 56% |
-| Tree | 30 | 56% |
-| Array | 21 | 39% |
-| Depth-First Search | 20 | 37% |
+| Binary Tree | 30 | 55% |
+| Tree | 30 | 55% |
+| Array | 21 | 38% |
+| Depth-First Search | 20 | 36% |
 | Heap (Priority Queue) | 17 | 31% |
-| Sorting | 14 | 26% |
-| Greedy | 13 | 24% |
+| Greedy | 14 | 25% |
+| Sorting | 14 | 25% |
 | Hash Table | 13 | 24% |
 | Binary Search Tree | 11 | 20% |
 | Breadth-First Search | 11 | 20% |
@@ -68,7 +68,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 13 |
+| [Greedy](Topics/greedy/) | 14 |
 | [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 17 |
@@ -86,7 +86,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 14 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 30 |
