@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-16T17:26:59.859Z",
+  "updatedAt": "2026-10-16T18:28:01.853Z",
   "problems": [
     {
       "frontendId": "455",
@@ -284,6 +284,26 @@
           "path": "2136-earliest-possible-day-of-full-bloom/2136-earliest-possible-day-of-full-bloom.java",
           "sha": "e52a19d82de13acd0254ffc4c5238179c8215b41",
           "lastSyncedAt": "2026-10-16T17:26:59.859Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2279",
+      "title": "Maximum Bags With Full Capacity of Rocks",
+      "slug": "maximum-bags-with-full-capacity-of-rocks",
+      "problemName": "2279-maximum-bags-with-full-capacity-of-rocks",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/",
+      "folderPath": "2279-maximum-bags-with-full-capacity-of-rocks/",
+      "readmePath": "2279-maximum-bags-with-full-capacity-of-rocks/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2279-maximum-bags-with-full-capacity-of-rocks.java",
+          "path": "2279-maximum-bags-with-full-capacity-of-rocks/2279-maximum-bags-with-full-capacity-of-rocks.java",
+          "sha": "0b1e721383a5e2c125ed650bda140c9747976b66",
+          "lastSyncedAt": "2026-10-16T18:28:01.853Z"
         }
       ]
     },
