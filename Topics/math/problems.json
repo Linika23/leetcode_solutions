@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-09-20T17:32:31.859Z",
+  "updatedAt": "2026-10-16T15:09:25.024Z",
   "problems": [
     {
       "frontendId": "66",
@@ -23,6 +24,26 @@
           "path": "0066-plus-one/0066-plus-one.java",
           "sha": "d414eb3270a4d797ec389b93a6bcc613e29ff27f",
           "lastSyncedAt": "2026-09-20T17:32:31.859Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "991",
+      "title": "Broken Calculator",
+      "slug": "broken-calculator",
+      "problemName": "0991-broken-calculator",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/broken-calculator/",
+      "folderPath": "0991-broken-calculator/",
+      "readmePath": "0991-broken-calculator/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0991-broken-calculator.java",
+          "path": "0991-broken-calculator/0991-broken-calculator.java",
+          "sha": "85b2a1b025b6926651cef2db18e082f409504d29",
+          "lastSyncedAt": "2026-10-16T15:09:25.024Z"
         }
       ]
     }
