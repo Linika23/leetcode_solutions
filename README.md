@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 13 | 35 | 7 |
+| 56 | 13 | 36 | 7 |
 
 ## Activity
 
@@ -29,20 +29,20 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
 | 2026-10-15 | 2 |
-| 2026-10-16 | 1 |
+| 2026-10-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 55% |
-| Tree | 30 | 55% |
+| Binary Tree | 30 | 54% |
+| Tree | 30 | 54% |
 | Array | 21 | 38% |
 | Depth-First Search | 20 | 36% |
-| Heap (Priority Queue) | 17 | 31% |
-| Greedy | 14 | 25% |
+| Heap (Priority Queue) | 17 | 30% |
+| Greedy | 15 | 27% |
 | Sorting | 14 | 25% |
-| Hash Table | 13 | 24% |
+| Hash Table | 13 | 23% |
 | Binary Search Tree | 11 | 20% |
 | Breadth-First Search | 11 | 20% |
 
@@ -68,14 +68,14 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 14 |
+| [Greedy](Topics/greedy/) | 15 |
 | [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 17 |
 | [Iterator](Topics/iterator/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
