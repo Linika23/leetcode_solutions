@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-16T18:28:01.853Z",
+  "updatedAt": "2026-10-18T14:33:43.139Z",
   "problems": [
     {
       "frontendId": "455",
@@ -264,6 +264,26 @@
           "path": "1962-remove-stones-to-minimize-the-total/1962-remove-stones-to-minimize-the-total.java",
           "sha": "d467baf7b7c822b157a2b36ed2f30eb67b9b458f",
           "lastSyncedAt": "2026-10-03T16:38:37.944Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2131",
+      "title": "Longest Palindrome by Concatenating Two Letter Words",
+      "slug": "longest-palindrome-by-concatenating-two-letter-words",
+      "problemName": "2131-longest-palindrome-by-concatenating-two-letter-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/",
+      "folderPath": "2131-longest-palindrome-by-concatenating-two-letter-words/",
+      "readmePath": "2131-longest-palindrome-by-concatenating-two-letter-words/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2131-longest-palindrome-by-concatenating-two-letter-words.java",
+          "path": "2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.java",
+          "sha": "4ac3cd65284a3f335eb07be6f5d5e19988ff8a78",
+          "lastSyncedAt": "2026-10-18T14:33:43.139Z"
         }
       ]
     },
