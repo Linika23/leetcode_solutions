@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-function",
+    "name": "Hash Function",
+    "tagId": "61065"
+  },
+  "updatedAt": "2026-10-18T15:48:59.049Z",
+  "problems": [
+    {
+      "frontendId": "336",
+      "title": "Palindrome Pairs",
+      "slug": "palindrome-pairs",
+      "problemName": "0336-palindrome-pairs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-pairs/",
+      "folderPath": "0336-palindrome-pairs/",
+      "readmePath": "0336-palindrome-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0336-palindrome-pairs.java",
+          "path": "0336-palindrome-pairs/0336-palindrome-pairs.java",
+          "sha": "ff6a566b86e42eec51f605add9b88f54d469acaf",
+          "lastSyncedAt": "2026-10-18T15:48:59.049Z"
+        }
+      ]
+    }
+  ]
+}
