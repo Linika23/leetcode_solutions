@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-11T17:32:51.146Z",
+  "updatedAt": "2026-10-18T14:33:43.139Z",
   "problems": [
     {
       "frontendId": "3",
@@ -224,6 +224,26 @@
           "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.java",
           "sha": "21238a0ffba65691a8f658b075fa9e9f46f1ee5e",
           "lastSyncedAt": "2026-09-20T17:31:39.545Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2131",
+      "title": "Longest Palindrome by Concatenating Two Letter Words",
+      "slug": "longest-palindrome-by-concatenating-two-letter-words",
+      "problemName": "2131-longest-palindrome-by-concatenating-two-letter-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/",
+      "folderPath": "2131-longest-palindrome-by-concatenating-two-letter-words/",
+      "readmePath": "2131-longest-palindrome-by-concatenating-two-letter-words/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2131-longest-palindrome-by-concatenating-two-letter-words.java",
+          "path": "2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.java",
+          "sha": "4ac3cd65284a3f335eb07be6f5d5e19988ff8a78",
+          "lastSyncedAt": "2026-10-18T14:33:43.139Z"
         }
       ]
     },
