@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-16T18:28:01.853Z",
+  "updatedAt": "2026-10-19T16:48:41.744Z",
   "problems": [
     {
       "frontendId": "295",
@@ -244,6 +244,26 @@
           "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.java",
           "sha": "21238a0ffba65691a8f658b075fa9e9f46f1ee5e",
           "lastSyncedAt": "2026-09-20T17:31:39.545Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "1833-maximum-ice-cream-bars/",
+      "readmePath": "1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1833-maximum-ice-cream-bars.java",
+          "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.java",
+          "sha": "309196d30f2a4aa42c009185b47e2c3914b3e244",
+          "lastSyncedAt": "2026-10-19T16:48:41.744Z"
         }
       ]
     },
