@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T15:48:59.049Z",
+  "updatedAt": "2026-10-19T16:48:41.744Z",
   "problems": [
     {
       "frontendId": "66",
@@ -384,6 +384,26 @@
           "path": "1578-minimum-time-to-make-rope-colorful/1578-minimum-time-to-make-rope-colorful.java",
           "sha": "ea4b6994db75afbf0afcdb57c05399be7f17c958",
           "lastSyncedAt": "2026-10-16T16:06:42.565Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "1833-maximum-ice-cream-bars/",
+      "readmePath": "1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1833-maximum-ice-cream-bars.java",
+          "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.java",
+          "sha": "309196d30f2a4aa42c009185b47e2c3914b3e244",
+          "lastSyncedAt": "2026-10-19T16:48:41.744Z"
         }
       ]
     },
