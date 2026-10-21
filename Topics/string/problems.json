@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T15:48:59.049Z",
+  "updatedAt": "2026-10-21T17:10:40.883Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.java",
           "sha": "4ac3cd65284a3f335eb07be6f5d5e19988ff8a78",
           "lastSyncedAt": "2026-10-18T14:33:43.139Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2405",
+      "title": "Optimal Partition of String",
+      "slug": "optimal-partition-of-string",
+      "problemName": "2405-optimal-partition-of-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/optimal-partition-of-string/",
+      "folderPath": "2405-optimal-partition-of-string/",
+      "readmePath": "2405-optimal-partition-of-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2405-optimal-partition-of-string.java",
+          "path": "2405-optimal-partition-of-string/2405-optimal-partition-of-string.java",
+          "sha": "85f5309f15c1bcd88855c797c7f4e1f8930ac38b",
+          "lastSyncedAt": "2026-10-21T17:10:40.883Z"
         }
       ]
     },
