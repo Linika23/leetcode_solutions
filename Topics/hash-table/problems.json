@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-18T15:48:59.049Z",
+  "updatedAt": "2026-10-21T17:10:40.883Z",
   "problems": [
     {
       "frontendId": "3",
@@ -284,6 +284,26 @@
           "path": "2385-amount-of-time-for-binary-tree-to-be-infected/2385-amount-of-time-for-binary-tree-to-be-infected.java",
           "sha": "1eaa7af4b4408d3ccc8cac03f1ad9b67afc201b1",
           "lastSyncedAt": "2026-09-20T17:30:49.254Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2405",
+      "title": "Optimal Partition of String",
+      "slug": "optimal-partition-of-string",
+      "problemName": "2405-optimal-partition-of-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/optimal-partition-of-string/",
+      "folderPath": "2405-optimal-partition-of-string/",
+      "readmePath": "2405-optimal-partition-of-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2405-optimal-partition-of-string.java",
+          "path": "2405-optimal-partition-of-string/2405-optimal-partition-of-string.java",
+          "sha": "85f5309f15c1bcd88855c797c7f4e1f8930ac38b",
+          "lastSyncedAt": "2026-10-21T17:10:40.883Z"
         }
       ]
     },
