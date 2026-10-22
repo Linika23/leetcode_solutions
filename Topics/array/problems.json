@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-19T16:48:41.744Z",
+  "updatedAt": "2026-10-22T14:59:49.832Z",
   "problems": [
     {
       "frontendId": "66",
@@ -64,6 +64,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "sha": "40d4e683287b1751951ba674667b9e6ff2903a0f",
           "lastSyncedAt": "2026-09-20T17:30:22.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "134",
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "problemName": "0134-gas-station",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station/",
+      "folderPath": "0134-gas-station/",
+      "readmePath": "0134-gas-station/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0134-gas-station.java",
+          "path": "0134-gas-station/0134-gas-station.java",
+          "sha": "d73ac10719b3ff326e5341b5f12de9126f5f31ac",
+          "lastSyncedAt": "2026-10-22T14:59:49.832Z"
         }
       ]
     },
