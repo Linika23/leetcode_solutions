@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-21T17:10:40.883Z",
+  "updatedAt": "2026-10-22T14:59:49.832Z",
   "problems": [
+    {
+      "frontendId": "134",
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "problemName": "0134-gas-station",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gas-station/",
+      "folderPath": "0134-gas-station/",
+      "readmePath": "0134-gas-station/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0134-gas-station.java",
+          "path": "0134-gas-station/0134-gas-station.java",
+          "sha": "d73ac10719b3ff326e5341b5f12de9126f5f31ac",
+          "lastSyncedAt": "2026-10-22T14:59:49.832Z"
+        }
+      ]
+    },
     {
       "frontendId": "455",
       "title": "Assign Cookies",
