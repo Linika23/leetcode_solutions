@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-22T14:59:49.832Z",
+  "updatedAt": "2026-10-22T16:22:32.789Z",
   "problems": [
     {
       "frontendId": "134",
@@ -344,6 +344,26 @@
           "path": "2136-earliest-possible-day-of-full-bloom/2136-earliest-possible-day-of-full-bloom.java",
           "sha": "e52a19d82de13acd0254ffc4c5238179c8215b41",
           "lastSyncedAt": "2026-10-16T17:26:59.859Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2202",
+      "title": "Maximize the Topmost Element After K Moves",
+      "slug": "maximize-the-topmost-element-after-k-moves",
+      "problemName": "2202-maximize-the-topmost-element-after-k-moves",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/",
+      "folderPath": "2202-maximize-the-topmost-element-after-k-moves/",
+      "readmePath": "2202-maximize-the-topmost-element-after-k-moves/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2202-maximize-the-topmost-element-after-k-moves.java",
+          "path": "2202-maximize-the-topmost-element-after-k-moves/2202-maximize-the-topmost-element-after-k-moves.java",
+          "sha": "4aa5fc09d4c1ed62a73da363ab4b79161031df0f",
+          "lastSyncedAt": "2026-10-22T16:22:32.789Z"
         }
       ]
     },
