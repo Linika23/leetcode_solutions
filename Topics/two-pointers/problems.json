@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-15T17:51:10.127Z",
+  "updatedAt": "2026-10-22T16:54:16.228Z",
   "problems": [
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "0027-remove-element/",
+      "readmePath": "0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0027-remove-element.java",
+          "path": "0027-remove-element/0027-remove-element.java",
+          "sha": "0f0d9f058e2067d25ff99d2684a8e4db9a2b83bb",
+          "lastSyncedAt": "2026-10-22T16:54:16.228Z"
+        }
+      ]
+    },
     {
       "frontendId": "295",
       "title": "Find Median from Data Stream",
