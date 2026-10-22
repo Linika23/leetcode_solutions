@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 13 | 42 | 9 |
+| 65 | 13 | 43 | 9 |
 
 ## Activity
 
@@ -29,19 +29,19 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-18 | 2 |
 | 2026-10-19 | 1 |
 | 2026-10-21 | 1 |
-| 2026-10-22 | 1 |
+| 2026-10-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 30 | 47% |
-| Tree | 30 | 47% |
-| Array | 28 | 44% |
-| Greedy | 22 | 34% |
+| Binary Tree | 30 | 46% |
+| Tree | 30 | 46% |
+| Array | 29 | 45% |
+| Greedy | 23 | 35% |
 | Depth-First Search | 20 | 31% |
-| Heap (Priority Queue) | 17 | 27% |
-| Sorting | 17 | 27% |
+| Heap (Priority Queue) | 17 | 26% |
+| Sorting | 17 | 26% |
 | Hash Table | 16 | 25% |
 | Binary Search Tree | 11 | 17% |
 | Breadth-First Search | 11 | 17% |
@@ -50,7 +50,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 29 |
+| [Array](Topics/array/) | 30 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -69,7 +69,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 22 |
+| [Greedy](Topics/greedy/) | 23 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap](Topics/heap/) | 0 |
