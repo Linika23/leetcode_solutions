@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "queue",
+    "name": "Queue",
+    "tagId": "34"
+  },
+  "updatedAt": "2026-10-23T15:28:58.730Z",
+  "problems": [
+    {
+      "frontendId": "649",
+      "title": "Dota2 Senate",
+      "slug": "dota2-senate",
+      "problemName": "0649-dota2-senate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/dota2-senate/",
+      "folderPath": "0649-dota2-senate/",
+      "readmePath": "0649-dota2-senate/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0649-dota2-senate.java",
+          "path": "0649-dota2-senate/0649-dota2-senate.java",
+          "sha": "cc4c1de70138415b3bd3a1fd9d4598c46fda9c0f",
+          "lastSyncedAt": "2026-10-23T15:28:58.730Z"
+        }
+      ]
+    }
+  ]
+}
