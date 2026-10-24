@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 14 | 44 | 9 |
+| 68 | 14 | 44 | 10 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 7 days | 31 |
+| 1 days | 7 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-06 | 2 |
 | 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
@@ -30,16 +29,17 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-21 | 1 |
 | 2026-10-22 | 3 |
 | 2026-10-23 | 1 |
+| 2026-10-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 45% |
-| Binary Tree | 30 | 45% |
-| Tree | 30 | 45% |
-| Greedy | 24 | 36% |
-| Depth-First Search | 20 | 30% |
+| Array | 31 | 46% |
+| Binary Tree | 30 | 44% |
+| Tree | 30 | 44% |
+| Greedy | 25 | 37% |
+| Depth-First Search | 20 | 29% |
 | Heap (Priority Queue) | 17 | 25% |
 | Sorting | 17 | 25% |
 | Hash Table | 16 | 24% |
@@ -50,7 +50,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -69,7 +69,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 24 |
+| [Greedy](Topics/greedy/) | 25 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap](Topics/heap/) | 0 |
@@ -77,7 +77,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Iterator](Topics/iterator/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
