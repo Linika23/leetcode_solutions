@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-16T15:09:25.024Z",
+  "updatedAt": "2026-10-24T20:42:59.754Z",
   "problems": [
     {
       "frontendId": "66",
@@ -44,6 +44,26 @@
           "path": "0991-broken-calculator/0991-broken-calculator.java",
           "sha": "85b2a1b025b6926651cef2db18e082f409504d29",
           "lastSyncedAt": "2026-10-16T15:09:25.024Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2366",
+      "title": "Minimum Replacements to Sort the Array",
+      "slug": "minimum-replacements-to-sort-the-array",
+      "problemName": "2366-minimum-replacements-to-sort-the-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array/",
+      "folderPath": "2366-minimum-replacements-to-sort-the-array/",
+      "readmePath": "2366-minimum-replacements-to-sort-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2366-minimum-replacements-to-sort-the-array.java",
+          "path": "2366-minimum-replacements-to-sort-the-array/2366-minimum-replacements-to-sort-the-array.java",
+          "sha": "6f0f0b35262a9ccdf0ede188a3a68c96eda590ae",
+          "lastSyncedAt": "2026-10-24T20:42:59.754Z"
         }
       ]
     }
