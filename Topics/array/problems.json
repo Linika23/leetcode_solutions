@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-24T20:42:59.754Z",
+  "updatedAt": "2026-10-26T16:59:09.930Z",
   "problems": [
     {
       "frontendId": "27",
@@ -364,6 +364,26 @@
           "path": "1046-last-stone-weight/1046-last-stone-weight.java",
           "sha": "1b503f57ccdf9b118017e53c118cd0a850221936",
           "lastSyncedAt": "2026-10-04T15:23:10.445Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1326",
+      "title": "Minimum Number of Taps to Open to Water a Garden",
+      "slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+      "problemName": "1326-minimum-number-of-taps-to-open-to-water-a-garden",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/",
+      "folderPath": "1326-minimum-number-of-taps-to-open-to-water-a-garden/",
+      "readmePath": "1326-minimum-number-of-taps-to-open-to-water-a-garden/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1326-minimum-number-of-taps-to-open-to-water-a-garden.java",
+          "path": "1326-minimum-number-of-taps-to-open-to-water-a-garden/1326-minimum-number-of-taps-to-open-to-water-a-garden.java",
+          "sha": "27030b1df35f7bf8cf164e0f2a78fd7900220171",
+          "lastSyncedAt": "2026-10-26T16:59:09.930Z"
         }
       ]
     },
