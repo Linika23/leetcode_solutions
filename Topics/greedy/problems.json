@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-26T16:59:09.930Z",
+  "updatedAt": "2026-10-26T20:33:42.807Z",
   "problems": [
+    {
+      "frontendId": "45",
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "problemName": "0045-jump-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+      "folderPath": "0045-jump-game-ii/",
+      "readmePath": "0045-jump-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0045-jump-game-ii.java",
+          "path": "0045-jump-game-ii/0045-jump-game-ii.java",
+          "sha": "6b6c8fd658bf5d15b8d1b6fd8ddff22cab8cea99",
+          "lastSyncedAt": "2026-10-26T20:33:42.807Z"
+        }
+      ]
+    },
     {
       "frontendId": "134",
       "title": "Gas Station",
