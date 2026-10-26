@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 68 | 14 | 44 | 10 |
+| 69 | 14 | 44 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 7 days | 32 |
+| 2 days | 7 days | 33 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-07 | 1 |
 | 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 2 |
@@ -30,19 +29,20 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-22 | 3 |
 | 2026-10-23 | 1 |
 | 2026-10-25 | 1 |
+| 2026-10-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 46% |
-| Binary Tree | 30 | 44% |
-| Tree | 30 | 44% |
-| Greedy | 25 | 37% |
+| Array | 32 | 46% |
+| Binary Tree | 30 | 43% |
+| Tree | 30 | 43% |
+| Greedy | 26 | 38% |
 | Depth-First Search | 20 | 29% |
 | Heap (Priority Queue) | 17 | 25% |
 | Sorting | 17 | 25% |
-| Hash Table | 16 | 24% |
+| Hash Table | 16 | 23% |
 | Binary Search Tree | 11 | 16% |
 | Breadth-First Search | 11 | 16% |
 
@@ -50,7 +50,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
+| [Array](Topics/array/) | 33 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -67,9 +67,9 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 25 |
+| [Greedy](Topics/greedy/) | 26 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap](Topics/heap/) | 0 |
