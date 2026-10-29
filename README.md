@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 70 | 14 | 45 | 11 |
+| 71 | 14 | 46 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 7 days | 34 |
+| 1 days | 7 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-10 | 1 |
 | 2026-10-11 | 2 |
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
@@ -30,27 +29,28 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
+| 2026-10-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 47% |
-| Binary Tree | 30 | 43% |
-| Tree | 30 | 43% |
-| Greedy | 27 | 39% |
-| Depth-First Search | 20 | 29% |
+| Array | 34 | 48% |
+| Binary Tree | 30 | 42% |
+| Tree | 30 | 42% |
+| Greedy | 28 | 39% |
+| Depth-First Search | 20 | 28% |
 | Heap (Priority Queue) | 17 | 24% |
 | Sorting | 17 | 24% |
 | Hash Table | 16 | 23% |
-| Binary Search Tree | 11 | 16% |
-| Breadth-First Search | 11 | 16% |
+| Binary Search Tree | 11 | 15% |
+| Breadth-First Search | 11 | 15% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 34 |
+| [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -67,9 +67,9 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 27 |
+| [Greedy](Topics/greedy/) | 28 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap](Topics/heap/) | 0 |
