@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T20:33:42.807Z",
+  "updatedAt": "2026-10-29T17:49:33.522Z",
   "problems": [
     {
       "frontendId": "27",
@@ -364,6 +364,26 @@
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.java",
           "sha": "f972548beff66d8952442d7cc2e2666dcb6add53",
           "lastSyncedAt": "2026-09-29T09:03:59.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1024",
+      "title": "Video Stitching",
+      "slug": "video-stitching",
+      "problemName": "1024-video-stitching",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/video-stitching/",
+      "folderPath": "1024-video-stitching/",
+      "readmePath": "1024-video-stitching/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1024-video-stitching.java",
+          "path": "1024-video-stitching/1024-video-stitching.java",
+          "sha": "67efb22bbb4c77edd595be0c4cac29f51edfd799",
+          "lastSyncedAt": "2026-10-29T17:49:33.522Z"
         }
       ]
     },
