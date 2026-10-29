@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-26T20:33:42.807Z",
+  "updatedAt": "2026-10-29T17:49:33.522Z",
   "problems": [
     {
       "frontendId": "45",
@@ -44,6 +44,26 @@
           "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
           "sha": "2448ee7af8a64b36d4165586f05ca9c740243eb1",
           "lastSyncedAt": "2026-09-20T17:32:00.681Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1024",
+      "title": "Video Stitching",
+      "slug": "video-stitching",
+      "problemName": "1024-video-stitching",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/video-stitching/",
+      "folderPath": "1024-video-stitching/",
+      "readmePath": "1024-video-stitching/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1024-video-stitching.java",
+          "path": "1024-video-stitching/1024-video-stitching.java",
+          "sha": "67efb22bbb4c77edd595be0c4cac29f51edfd799",
+          "lastSyncedAt": "2026-10-29T17:49:33.522Z"
         }
       ]
     },
