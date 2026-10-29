@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-26T20:33:42.807Z",
+  "updatedAt": "2026-10-29T17:49:33.522Z",
   "problems": [
     {
       "frontendId": "45",
@@ -264,6 +264,26 @@
           "path": "0991-broken-calculator/0991-broken-calculator.java",
           "sha": "85b2a1b025b6926651cef2db18e082f409504d29",
           "lastSyncedAt": "2026-10-16T15:09:25.024Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1024",
+      "title": "Video Stitching",
+      "slug": "video-stitching",
+      "problemName": "1024-video-stitching",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/video-stitching/",
+      "folderPath": "1024-video-stitching/",
+      "readmePath": "1024-video-stitching/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1024-video-stitching.java",
+          "path": "1024-video-stitching/1024-video-stitching.java",
+          "sha": "67efb22bbb4c77edd595be0c4cac29f51edfd799",
+          "lastSyncedAt": "2026-10-29T17:49:33.522Z"
         }
       ]
     },
