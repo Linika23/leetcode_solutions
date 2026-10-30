@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 72 | 14 | 47 | 11 |
+| 73 | 14 | 47 | 12 |
 
 ## Activity
 
@@ -29,28 +29,28 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-29 | 1 |
-| 2026-10-31 | 1 |
+| 2026-10-31 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 47% |
-| Binary Tree | 30 | 42% |
-| Tree | 30 | 42% |
-| Greedy | 29 | 40% |
-| Depth-First Search | 20 | 28% |
+| Array | 35 | 48% |
+| Binary Tree | 30 | 41% |
+| Greedy | 30 | 41% |
+| Tree | 30 | 41% |
+| Depth-First Search | 20 | 27% |
+| Heap (Priority Queue) | 18 | 25% |
 | Sorting | 18 | 25% |
-| Hash Table | 17 | 24% |
-| Heap (Priority Queue) | 17 | 24% |
-| String | 12 | 17% |
+| Hash Table | 17 | 23% |
+| String | 12 | 16% |
 | Binary Search Tree | 11 | 15% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
+| [Array](Topics/array/) | 36 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -67,13 +67,13 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 29 |
+| [Greedy](Topics/greedy/) | 30 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 17 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 17 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 18 |
 | [Iterator](Topics/iterator/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
