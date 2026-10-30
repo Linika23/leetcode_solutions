@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-29T17:49:33.522Z",
+  "updatedAt": "2026-10-30T19:59:59.536Z",
   "problems": [
     {
       "frontendId": "45",
@@ -44,6 +44,26 @@
           "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
           "sha": "2448ee7af8a64b36d4165586f05ca9c740243eb1",
           "lastSyncedAt": "2026-09-20T17:32:00.681Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "871",
+      "title": "Minimum Number of Refueling Stops",
+      "slug": "minimum-number-of-refueling-stops",
+      "problemName": "0871-minimum-number-of-refueling-stops",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+      "folderPath": "0871-minimum-number-of-refueling-stops/",
+      "readmePath": "0871-minimum-number-of-refueling-stops/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0871-minimum-number-of-refueling-stops.java",
+          "path": "0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.java",
+          "sha": "e0051aaa494b6084ee73b3f04928d7ebf14386ab",
+          "lastSyncedAt": "2026-10-30T19:59:59.536Z"
         }
       ]
     },
