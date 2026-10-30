@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-23T15:28:58.730Z",
+  "updatedAt": "2026-10-30T19:02:10.994Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "1578-minimum-time-to-make-rope-colorful/1578-minimum-time-to-make-rope-colorful.java",
           "sha": "ea4b6994db75afbf0afcdb57c05399be7f17c958",
           "lastSyncedAt": "2026-10-16T16:06:42.565Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1647",
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "slug": "minimum-deletions-to-make-character-frequencies-unique",
+      "problemName": "1647-minimum-deletions-to-make-character-frequencies-unique",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
+      "folderPath": "1647-minimum-deletions-to-make-character-frequencies-unique/",
+      "readmePath": "1647-minimum-deletions-to-make-character-frequencies-unique/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1647-minimum-deletions-to-make-character-frequencies-unique.java",
+          "path": "1647-minimum-deletions-to-make-character-frequencies-unique/1647-minimum-deletions-to-make-character-frequencies-unique.java",
+          "sha": "dd6bf74a7b7e209aa4bd0d596530589cb23e9441",
+          "lastSyncedAt": "2026-10-30T19:02:10.994Z"
         }
       ]
     },
