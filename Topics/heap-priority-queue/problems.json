@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-13T18:26:38.367Z",
+  "updatedAt": "2026-10-30T19:59:59.536Z",
   "problems": [
     {
       "frontendId": "23",
@@ -204,6 +204,26 @@
           "path": "0857-minimum-cost-to-hire-k-workers/0857-minimum-cost-to-hire-k-workers.java",
           "sha": "9de5c309561dc30806539b60905788d7d88a3cfd",
           "lastSyncedAt": "2026-10-11T16:48:18.202Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "871",
+      "title": "Minimum Number of Refueling Stops",
+      "slug": "minimum-number-of-refueling-stops",
+      "problemName": "0871-minimum-number-of-refueling-stops",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+      "folderPath": "0871-minimum-number-of-refueling-stops/",
+      "readmePath": "0871-minimum-number-of-refueling-stops/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0871-minimum-number-of-refueling-stops.java",
+          "path": "0871-minimum-number-of-refueling-stops/0871-minimum-number-of-refueling-stops.java",
+          "sha": "e0051aaa494b6084ee73b3f04928d7ebf14386ab",
+          "lastSyncedAt": "2026-10-30T19:59:59.536Z"
         }
       ]
     },
