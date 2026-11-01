@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "game-theory",
+    "name": "Game Theory",
+    "tagId": "61073"
+  },
+  "updatedAt": "2026-11-01T17:26:13.489Z",
+  "problems": [
+    {
+      "frontendId": "2038",
+      "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+      "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "problemName": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/",
+      "folderPath": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/",
+      "readmePath": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.java",
+          "path": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.java",
+          "sha": "b23e2f932366de9432511426fe0f5252f4ec8512",
+          "lastSyncedAt": "2026-11-01T17:26:13.489Z"
+        }
+      ]
+    }
+  ]
+}
