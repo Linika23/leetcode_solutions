@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T20:42:59.754Z",
+  "updatedAt": "2026-11-01T17:26:13.489Z",
   "problems": [
     {
       "frontendId": "66",
@@ -44,6 +44,26 @@
           "path": "0991-broken-calculator/0991-broken-calculator.java",
           "sha": "85b2a1b025b6926651cef2db18e082f409504d29",
           "lastSyncedAt": "2026-10-16T15:09:25.024Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2038",
+      "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+      "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "problemName": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/",
+      "folderPath": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/",
+      "readmePath": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.java",
+          "path": "2038-remove-colored-pieces-if-both-neighbors-are-the-same-color/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color.java",
+          "sha": "b23e2f932366de9432511426fe0f5252f4ec8512",
+          "lastSyncedAt": "2026-11-01T17:26:13.489Z"
         }
       ]
     },
