@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-30T19:59:59.536Z",
+  "updatedAt": "2026-11-01T15:46:23.243Z",
   "problems": [
     {
       "frontendId": "27",
@@ -124,6 +124,26 @@
           "path": "0134-gas-station/0134-gas-station.java",
           "sha": "d73ac10719b3ff326e5341b5f12de9126f5f31ac",
           "lastSyncedAt": "2026-10-22T14:59:49.832Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "135",
+      "title": "Candy",
+      "slug": "candy",
+      "problemName": "0135-candy",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/candy/",
+      "folderPath": "0135-candy/",
+      "readmePath": "0135-candy/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0135-candy.java",
+          "path": "0135-candy/0135-candy.java",
+          "sha": "4fef5146ee4201d8203eb2270c66fccb6036f4f9",
+          "lastSyncedAt": "2026-11-01T15:46:23.243Z"
         }
       ]
     },
