@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-01T16:22:00.539Z",
+  "updatedAt": "2026-11-01T16:34:33.200Z",
   "problems": [
     {
       "frontendId": "27",
@@ -244,6 +244,26 @@
           "path": "0502-ipo/0502-ipo.java",
           "sha": "bafcb6c0f7565eb80ea9180562a34958358785bf",
           "lastSyncedAt": "2026-10-13T18:26:38.367Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "575",
+      "title": "Distribute Candies",
+      "slug": "distribute-candies",
+      "problemName": "0575-distribute-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-candies/",
+      "folderPath": "0575-distribute-candies/",
+      "readmePath": "0575-distribute-candies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0575-distribute-candies.java",
+          "path": "0575-distribute-candies/0575-distribute-candies.java",
+          "sha": "1b9afbc62108596443430da678520bac287321ad",
+          "lastSyncedAt": "2026-11-01T16:34:33.200Z"
         }
       ]
     },
