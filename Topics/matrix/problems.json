@@ -2,8 +2,30 @@
   "version": 1,
   "topic": {
     "slug": "matrix",
-    "name": "Matrix"
+    "name": "Matrix",
+    "tagId": "61053"
   },
-  "updatedAt": "2026-09-20T17:17:17.152Z",
-  "problems": []
+  "updatedAt": "2026-11-01T16:22:00.539Z",
+  "problems": [
+    {
+      "frontendId": "3142",
+      "title": "Check if Grid Satisfies Conditions",
+      "slug": "check-if-grid-satisfies-conditions",
+      "problemName": "3142-check-if-grid-satisfies-conditions",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-grid-satisfies-conditions/",
+      "folderPath": "3142-check-if-grid-satisfies-conditions/",
+      "readmePath": "3142-check-if-grid-satisfies-conditions/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3142-check-if-grid-satisfies-conditions.java",
+          "path": "3142-check-if-grid-satisfies-conditions/3142-check-if-grid-satisfies-conditions.java",
+          "sha": "3528dd63886abf258b8a98ba7bf8dfe2dce6a404",
+          "lastSyncedAt": "2026-11-01T16:22:00.539Z"
+        }
+      ]
+    }
+  ]
 }
