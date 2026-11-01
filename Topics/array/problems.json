@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-01T15:46:23.243Z",
+  "updatedAt": "2026-11-01T16:22:00.539Z",
   "problems": [
     {
       "frontendId": "27",
@@ -744,6 +744,26 @@
           "path": "2542-maximum-subsequence-score/2542-maximum-subsequence-score.java",
           "sha": "e5f79ab276bb02a8416157c0ac8b7de383cf8657",
           "lastSyncedAt": "2026-10-05T16:21:27.871Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3142",
+      "title": "Check if Grid Satisfies Conditions",
+      "slug": "check-if-grid-satisfies-conditions",
+      "problemName": "3142-check-if-grid-satisfies-conditions",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-grid-satisfies-conditions/",
+      "folderPath": "3142-check-if-grid-satisfies-conditions/",
+      "readmePath": "3142-check-if-grid-satisfies-conditions/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3142-check-if-grid-satisfies-conditions.java",
+          "path": "3142-check-if-grid-satisfies-conditions/3142-check-if-grid-satisfies-conditions.java",
+          "sha": "3528dd63886abf258b8a98ba7bf8dfe2dce6a404",
+          "lastSyncedAt": "2026-11-01T16:22:00.539Z"
         }
       ]
     }
