@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 14 | 47 | 13 |
+| 75 | 15 | 47 | 13 |
 
 ## Activity
 
@@ -29,16 +29,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-27 | 1 |
 | 2026-10-29 | 1 |
 | 2026-10-31 | 2 |
-| 2026-11-01 | 1 |
+| 2026-11-01 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 36 | 49% |
-| Greedy | 31 | 42% |
-| Binary Tree | 30 | 41% |
-| Tree | 30 | 41% |
+| Array | 37 | 49% |
+| Greedy | 31 | 41% |
+| Binary Tree | 30 | 40% |
+| Tree | 30 | 40% |
 | Depth-First Search | 20 | 27% |
 | Heap (Priority Queue) | 18 | 24% |
 | Sorting | 18 | 24% |
@@ -50,7 +50,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 37 |
+| [Array](Topics/array/) | 38 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
@@ -78,7 +78,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 3 |
-| [Matrix](Topics/matrix/) | 0 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
