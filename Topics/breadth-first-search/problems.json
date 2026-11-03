@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "breadth-first-search",
-    "name": "Breadth-First Search"
+    "name": "Breadth-First Search",
+    "tagId": "22"
   },
-  "updatedAt": "2026-09-30T15:22:57.672Z",
+  "updatedAt": "2026-11-03T14:40:02.827Z",
   "problems": [
     {
       "frontendId": "100",
@@ -123,6 +124,26 @@
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.java",
           "sha": "eafc28bd5839c8e36c2f2921f912b9283fa958ae",
           "lastSyncedAt": "2026-09-20T17:30:11.077Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "547",
+      "title": "Number of Provinces",
+      "slug": "number-of-provinces",
+      "problemName": "0547-number-of-provinces",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-provinces/",
+      "folderPath": "0547-number-of-provinces/",
+      "readmePath": "0547-number-of-provinces/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0547-number-of-provinces.java",
+          "path": "0547-number-of-provinces/0547-number-of-provinces.java",
+          "sha": "e0774337292a0c7501cc02d1c2a798df325d792c",
+          "lastSyncedAt": "2026-11-03T14:40:02.827Z"
         }
       ]
     },
