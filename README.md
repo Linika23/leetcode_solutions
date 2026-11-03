@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 78 | 16 | 49 | 13 |
+| 79 | 16 | 50 | 13 |
 
 ## Activity
 
@@ -29,41 +29,41 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-29 | 1 |
 | 2026-10-31 | 2 |
 | 2026-11-01 | 4 |
-| 2026-11-03 | 1 |
+| 2026-11-03 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 38 | 49% |
+| Array | 39 | 49% |
 | Greedy | 32 | 41% |
 | Binary Tree | 30 | 38% |
 | Tree | 30 | 38% |
-| Depth-First Search | 21 | 27% |
+| Depth-First Search | 22 | 28% |
 | Hash Table | 18 | 23% |
 | Heap (Priority Queue) | 18 | 23% |
 | Sorting | 18 | 23% |
-| String | 13 | 17% |
-| Breadth-First Search | 12 | 15% |
+| Breadth-First Search | 13 | 16% |
+| String | 13 | 16% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 39 |
+| [Array](Topics/array/) | 40 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 30 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 12 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 13 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Stream](Topics/data-stream/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 21 |
+| [Depth-First Search](Topics/depth-first-search/) | 22 |
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
@@ -79,7 +79,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 4 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
@@ -96,5 +96,5 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Tree](Topics/tree/) | 30 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 7 |
-| [Union-Find](Topics/union-find/) | 1 |
+| [Union-Find](Topics/union-find/) | 2 |
 <!---LeetHub Summary End-->
