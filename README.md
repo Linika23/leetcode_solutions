@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 77 | 16 | 48 | 13 |
+| 78 | 16 | 49 | 13 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 7 days | 37 |
+| 1 days | 7 days | 38 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-13 | 1 |
 | 2026-10-15 | 2 |
 | 2026-10-16 | 5 |
 | 2026-10-18 | 2 |
@@ -30,21 +29,22 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-29 | 1 |
 | 2026-10-31 | 2 |
 | 2026-11-01 | 4 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 38 | 49% |
-| Greedy | 32 | 42% |
-| Binary Tree | 30 | 39% |
-| Tree | 30 | 39% |
-| Depth-First Search | 20 | 26% |
+| Greedy | 32 | 41% |
+| Binary Tree | 30 | 38% |
+| Tree | 30 | 38% |
+| Depth-First Search | 21 | 27% |
 | Hash Table | 18 | 23% |
 | Heap (Priority Queue) | 18 | 23% |
 | Sorting | 18 | 23% |
 | String | 13 | 17% |
-| Binary Search Tree | 11 | 14% |
+| Breadth-First Search | 12 | 15% |
 
 ## Topics
 
@@ -57,19 +57,19 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Binary Search Tree](Topics/binary-search-tree/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 30 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 11 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 12 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Stream](Topics/data-stream/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 20 |
+| [Depth-First Search](Topics/depth-first-search/) | 21 |
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Game Theory](Topics/game-theory/) | 1 |
-| [Graph](Topics/graph/) | 0 |
+| [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 32 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 18 |
@@ -96,4 +96,5 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Tree](Topics/tree/) | 30 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 7 |
+| [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
