@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-01T17:26:13.489Z",
+  "updatedAt": "2026-11-03T18:41:14.871Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "0649-dota2-senate/0649-dota2-senate.java",
           "sha": "cc4c1de70138415b3bd3a1fd9d4598c46fda9c0f",
           "lastSyncedAt": "2026-10-23T15:28:58.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "657",
+      "title": "Robot Return to Origin",
+      "slug": "robot-return-to-origin",
+      "problemName": "0657-robot-return-to-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+      "folderPath": "0657-robot-return-to-origin/",
+      "readmePath": "0657-robot-return-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0657-robot-return-to-origin.java",
+          "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.java",
+          "sha": "b5b26e1db0837cd51ef96b12982301f76b39ce1b",
+          "lastSyncedAt": "2026-11-03T18:41:14.871Z"
         }
       ]
     },
