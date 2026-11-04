@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 81 | 18 | 50 | 13 |
+| 82 | 18 | 51 | 13 |
 
 ## Activity
 
@@ -29,35 +29,35 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-31 | 2 |
 | 2026-11-01 | 4 |
 | 2026-11-03 | 2 |
-| 2026-11-04 | 2 |
+| 2026-11-04 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 40 | 49% |
-| Greedy | 32 | 40% |
+| Array | 41 | 50% |
+| Greedy | 32 | 39% |
 | Binary Tree | 30 | 37% |
 | Tree | 30 | 37% |
 | Depth-First Search | 23 | 28% |
 | Hash Table | 18 | 22% |
 | Heap (Priority Queue) | 18 | 22% |
 | Sorting | 18 | 22% |
-| Breadth-First Search | 14 | 17% |
+| Breadth-First Search | 15 | 18% |
 | String | 14 | 17% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 41 |
+| [Array](Topics/array/) | 42 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 30 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 14 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 15 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
@@ -79,7 +79,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 4 |
-| [Matrix](Topics/matrix/) | 3 |
+| [Matrix](Topics/matrix/) | 4 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
