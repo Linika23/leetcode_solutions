@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 79 | 16 | 50 | 13 |
+| 81 | 18 | 50 | 13 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 7 days | 38 |
+| 2 days | 7 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-15 | 2 |
 | 2026-10-16 | 5 |
 | 2026-10-18 | 2 |
 | 2026-10-19 | 1 |
@@ -30,40 +29,41 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-10-31 | 2 |
 | 2026-11-01 | 4 |
 | 2026-11-03 | 2 |
+| 2026-11-04 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 39 | 49% |
-| Greedy | 32 | 41% |
-| Binary Tree | 30 | 38% |
-| Tree | 30 | 38% |
-| Depth-First Search | 22 | 28% |
-| Hash Table | 18 | 23% |
-| Heap (Priority Queue) | 18 | 23% |
-| Sorting | 18 | 23% |
-| Breadth-First Search | 13 | 16% |
-| String | 13 | 16% |
+| Array | 40 | 49% |
+| Greedy | 32 | 40% |
+| Binary Tree | 30 | 37% |
+| Tree | 30 | 37% |
+| Depth-First Search | 23 | 28% |
+| Hash Table | 18 | 22% |
+| Heap (Priority Queue) | 18 | 22% |
+| Sorting | 18 | 22% |
+| Breadth-First Search | 14 | 17% |
+| String | 14 | 17% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 30 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 13 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 14 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Stream](Topics/data-stream/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 22 |
+| [Depth-First Search](Topics/depth-first-search/) | 23 |
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
@@ -79,18 +79,18 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 4 |
-| [Matrix](Topics/matrix/) | 2 |
+| [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 18 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 13 |
+| [String](Topics/string/) | 14 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 30 |
