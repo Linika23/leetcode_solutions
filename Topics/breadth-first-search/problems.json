@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-04T14:50:27.680Z",
+  "updatedAt": "2026-11-04T15:51:50.576Z",
   "problems": [
     {
       "frontendId": "100",
@@ -264,6 +264,26 @@
           "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.java",
           "sha": "21238a0ffba65691a8f658b075fa9e9f46f1ee5e",
           "lastSyncedAt": "2026-09-20T17:31:39.545Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0994-rotting-oranges.java",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.java",
+          "sha": "cece5ff32b5f52a08ed633c052503532f3284fe3",
+          "lastSyncedAt": "2026-11-04T15:51:50.576Z"
         }
       ]
     },
