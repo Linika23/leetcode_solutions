@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-30T19:59:59.536Z",
+  "updatedAt": "2026-11-05T19:07:25.390Z",
   "problems": [
     {
       "frontendId": "45",
@@ -44,6 +44,26 @@
           "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.java",
           "sha": "2448ee7af8a64b36d4165586f05ca9c740243eb1",
           "lastSyncedAt": "2026-09-20T17:32:00.681Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0542-01-matrix.java",
+          "path": "0542-01-matrix/0542-01-matrix.java",
+          "sha": "27c51e62b7f3082b1fd2b9c40546510ada374536",
+          "lastSyncedAt": "2026-11-05T19:07:25.390Z"
         }
       ]
     },
