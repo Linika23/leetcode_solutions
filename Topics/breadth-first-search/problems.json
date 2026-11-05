@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-04T15:51:50.576Z",
+  "updatedAt": "2026-11-05T19:07:25.390Z",
   "problems": [
     {
       "frontendId": "100",
@@ -144,6 +144,26 @@
           "path": "0297-serialize-and-deserialize-binary-tree/0297-serialize-and-deserialize-binary-tree.java",
           "sha": "eafc28bd5839c8e36c2f2921f912b9283fa958ae",
           "lastSyncedAt": "2026-09-20T17:30:11.077Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0542-01-matrix.java",
+          "path": "0542-01-matrix/0542-01-matrix.java",
+          "sha": "27c51e62b7f3082b1fd2b9c40546510ada374536",
+          "lastSyncedAt": "2026-11-05T19:07:25.390Z"
         }
       ]
     },
