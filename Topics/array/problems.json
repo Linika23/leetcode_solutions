@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T15:51:50.576Z",
+  "updatedAt": "2026-11-05T19:07:25.390Z",
   "problems": [
     {
       "frontendId": "27",
@@ -264,6 +264,26 @@
           "path": "0502-ipo/0502-ipo.java",
           "sha": "bafcb6c0f7565eb80ea9180562a34958358785bf",
           "lastSyncedAt": "2026-10-13T18:26:38.367Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0542-01-matrix.java",
+          "path": "0542-01-matrix/0542-01-matrix.java",
+          "sha": "27c51e62b7f3082b1fd2b9c40546510ada374536",
+          "lastSyncedAt": "2026-11-05T19:07:25.390Z"
         }
       ]
     },
