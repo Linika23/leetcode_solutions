@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-11T08:05:16.606Z",
+  "updatedAt": "2026-11-11T08:30:38.102Z",
   "problems": [
     {
       "frontendId": "100",
@@ -324,6 +324,26 @@
           "path": "0994-rotting-oranges/0994-rotting-oranges.java",
           "sha": "cece5ff32b5f52a08ed633c052503532f3284fe3",
           "lastSyncedAt": "2026-11-04T15:51:50.576Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1020",
+      "title": "Number of Enclaves",
+      "slug": "number-of-enclaves",
+      "problemName": "1020-number-of-enclaves",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves/",
+      "folderPath": "1020-number-of-enclaves/",
+      "readmePath": "1020-number-of-enclaves/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1020-number-of-enclaves.java",
+          "path": "1020-number-of-enclaves/1020-number-of-enclaves.java",
+          "sha": "bc564c7302b6791cf38dbb12cfbace75e917ad72",
+          "lastSyncedAt": "2026-11-11T08:30:38.102Z"
         }
       ]
     },
