@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-11T08:05:16.606Z",
+  "updatedAt": "2026-11-11T08:30:38.102Z",
   "problems": [
     {
       "frontendId": "94",
@@ -464,6 +464,26 @@
           "path": "0987-vertical-order-traversal-of-a-binary-tree/0987-vertical-order-traversal-of-a-binary-tree.java",
           "sha": "21238a0ffba65691a8f658b075fa9e9f46f1ee5e",
           "lastSyncedAt": "2026-09-20T17:31:39.545Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1020",
+      "title": "Number of Enclaves",
+      "slug": "number-of-enclaves",
+      "problemName": "1020-number-of-enclaves",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-enclaves/",
+      "folderPath": "1020-number-of-enclaves/",
+      "readmePath": "1020-number-of-enclaves/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1020-number-of-enclaves.java",
+          "path": "1020-number-of-enclaves/1020-number-of-enclaves.java",
+          "sha": "bc564c7302b6791cf38dbb12cfbace75e917ad72",
+          "lastSyncedAt": "2026-11-11T08:30:38.102Z"
         }
       ]
     },
