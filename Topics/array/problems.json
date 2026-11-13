@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T08:30:38.102Z",
+  "updatedAt": "2026-11-13T18:11:20.185Z",
   "problems": [
     {
       "frontendId": "27",
@@ -704,6 +704,26 @@
           "path": "1834-single-threaded-cpu/1834-single-threaded-cpu.java",
           "sha": "1200fe3d622be8dd79cc202862bad62b438b6b44",
           "lastSyncedAt": "2026-10-04T14:33:58.915Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1926",
+      "title": "Nearest Exit from Entrance in Maze",
+      "slug": "nearest-exit-from-entrance-in-maze",
+      "problemName": "1926-nearest-exit-from-entrance-in-maze",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/",
+      "folderPath": "1926-nearest-exit-from-entrance-in-maze/",
+      "readmePath": "1926-nearest-exit-from-entrance-in-maze/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1926-nearest-exit-from-entrance-in-maze.java",
+          "path": "1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.java",
+          "sha": "5ed33632248ce71ca6cfb0b65af8c3269ca583d3",
+          "lastSyncedAt": "2026-11-13T18:11:20.185Z"
         }
       ]
     },
