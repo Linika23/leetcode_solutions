@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-13T17:04:47.076Z",
+  "updatedAt": "2026-11-13T17:17:15.308Z",
   "problems": [
     {
       "frontendId": "3",
@@ -284,6 +284,14 @@
           "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.cpp",
           "sha": "ea8264ed31a84096b6d4de121106d21909067a29",
           "lastSyncedAt": "2026-11-13T17:04:47.076Z"
+        },
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0947-most-stones-removed-with-same-row-or-column.java",
+          "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.java",
+          "sha": "30530eac06ceae687858627bb59ab47a28fb6052",
+          "lastSyncedAt": "2026-11-13T17:17:15.308Z"
         }
       ]
     },
