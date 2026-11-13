@@ -6,7 +6,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 88 | 18 | 57 | 13 |
+| 89 | 18 | 58 | 13 |
 
 ## Activity
 
@@ -29,19 +29,19 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-11-04 | 3 |
 | 2026-11-06 | 1 |
 | 2026-11-11 | 3 |
-| 2026-11-13 | 2 |
+| 2026-11-13 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 44 | 50% |
-| Greedy | 33 | 38% |
+| Array | 45 | 51% |
+| Greedy | 33 | 37% |
 | Binary Tree | 30 | 34% |
 | Tree | 30 | 34% |
-| Depth-First Search | 26 | 30% |
-| Hash Table | 20 | 23% |
-| Breadth-First Search | 19 | 22% |
+| Depth-First Search | 26 | 29% |
+| Breadth-First Search | 20 | 22% |
+| Hash Table | 20 | 22% |
 | Heap (Priority Queue) | 18 | 20% |
 | Sorting | 18 | 20% |
 | String | 15 | 17% |
@@ -50,7 +50,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 45 |
+| [Array](Topics/array/) | 46 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
@@ -59,7 +59,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Binary Tree](Topics/binary-tree/) | 30 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 19 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 20 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
@@ -81,7 +81,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Linked List](Topics/linked-list/) | 2 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 2 |
 | [Math](Topics/math/) | 5 |
-| [Matrix](Topics/matrix/) | 7 |
+| [Matrix](Topics/matrix/) | 8 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
