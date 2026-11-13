@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-13T16:15:21.909Z",
+  "updatedAt": "2026-11-13T17:04:47.076Z",
   "problems": [
     {
       "frontendId": "3",
@@ -264,6 +264,26 @@
           "path": "0863-all-nodes-distance-k-in-binary-tree/0863-all-nodes-distance-k-in-binary-tree.java",
           "sha": "a333d3f3d15baf0e820bf154d2a3c5e9ed10bc3b",
           "lastSyncedAt": "2026-09-20T17:30:57.605Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "947",
+      "title": "Most Stones Removed with Same Row or Column",
+      "slug": "most-stones-removed-with-same-row-or-column",
+      "problemName": "0947-most-stones-removed-with-same-row-or-column",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+      "folderPath": "0947-most-stones-removed-with-same-row-or-column/",
+      "readmePath": "0947-most-stones-removed-with-same-row-or-column/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0947-most-stones-removed-with-same-row-or-column.cpp",
+          "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.cpp",
+          "sha": "ea8264ed31a84096b6d4de121106d21909067a29",
+          "lastSyncedAt": "2026-11-13T17:04:47.076Z"
         }
       ]
     },
