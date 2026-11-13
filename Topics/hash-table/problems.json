@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-01T16:34:33.200Z",
+  "updatedAt": "2026-11-13T16:15:21.909Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.java",
           "sha": "0d8bc38f992ed9fa50fe2cb0da7b1363aa834bb8",
           "lastSyncedAt": "2026-10-04T15:41:49.948Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "433",
+      "title": "Minimum Genetic Mutation",
+      "slug": "minimum-genetic-mutation",
+      "problemName": "0433-minimum-genetic-mutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-genetic-mutation/",
+      "folderPath": "0433-minimum-genetic-mutation/",
+      "readmePath": "0433-minimum-genetic-mutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0433-minimum-genetic-mutation.java",
+          "path": "0433-minimum-genetic-mutation/0433-minimum-genetic-mutation.java",
+          "sha": "30ecf94bd8a06d23a2cb94bc354e00bf85a77108",
+          "lastSyncedAt": "2026-11-13T16:15:21.909Z"
         }
       ]
     },
