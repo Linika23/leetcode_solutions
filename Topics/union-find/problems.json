@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-13T17:17:15.308Z",
+  "updatedAt": "2026-11-14T18:25:55.945Z",
   "problems": [
     {
       "frontendId": "130",
@@ -112,6 +112,26 @@
           "path": "1020-number-of-enclaves/1020-number-of-enclaves.java",
           "sha": "bc564c7302b6791cf38dbb12cfbace75e917ad72",
           "lastSyncedAt": "2026-11-11T08:30:38.102Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "problemName": "1971-find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+      "folderPath": "1971-find-if-path-exists-in-graph/",
+      "readmePath": "1971-find-if-path-exists-in-graph/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1971-find-if-path-exists-in-graph.java",
+          "path": "1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.java",
+          "sha": "f345371038bf48d51f1f8c76d2fffe534e3eecd2",
+          "lastSyncedAt": "2026-11-14T18:25:55.945Z"
         }
       ]
     }
