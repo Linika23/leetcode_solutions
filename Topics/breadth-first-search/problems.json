@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-13T18:11:20.185Z",
+  "updatedAt": "2026-11-14T18:25:55.945Z",
   "problems": [
     {
       "frontendId": "100",
@@ -384,6 +384,26 @@
           "path": "1926-nearest-exit-from-entrance-in-maze/1926-nearest-exit-from-entrance-in-maze.java",
           "sha": "5ed33632248ce71ca6cfb0b65af8c3269ca583d3",
           "lastSyncedAt": "2026-11-13T18:11:20.185Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "problemName": "1971-find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+      "folderPath": "1971-find-if-path-exists-in-graph/",
+      "readmePath": "1971-find-if-path-exists-in-graph/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1971-find-if-path-exists-in-graph.java",
+          "path": "1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.java",
+          "sha": "f345371038bf48d51f1f8c76d2fffe534e3eecd2",
+          "lastSyncedAt": "2026-11-14T18:25:55.945Z"
         }
       ]
     },
