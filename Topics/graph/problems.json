@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-13T17:17:15.308Z",
+  "updatedAt": "2026-11-14T18:25:55.945Z",
   "problems": [
     {
       "frontendId": "547",
@@ -52,6 +52,26 @@
           "path": "0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.java",
           "sha": "30530eac06ceae687858627bb59ab47a28fb6052",
           "lastSyncedAt": "2026-11-13T17:17:15.308Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1971",
+      "title": "Find if Path Exists in Graph",
+      "slug": "find-if-path-exists-in-graph",
+      "problemName": "1971-find-if-path-exists-in-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+      "folderPath": "1971-find-if-path-exists-in-graph/",
+      "readmePath": "1971-find-if-path-exists-in-graph/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1971-find-if-path-exists-in-graph.java",
+          "path": "1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.java",
+          "sha": "f345371038bf48d51f1f8c76d2fffe534e3eecd2",
+          "lastSyncedAt": "2026-11-14T18:25:55.945Z"
         }
       ]
     }
