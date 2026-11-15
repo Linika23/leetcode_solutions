@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 90 | 19 | 58 | 13 |
+| 91 | 19 | 59 | 13 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 7 days | 43 |
+| 3 days | 7 days | 44 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-22 | 3 |
 | 2026-10-23 | 1 |
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
@@ -30,21 +29,22 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-11-11 | 3 |
 | 2026-11-13 | 3 |
 | 2026-11-14 | 1 |
+| 2026-11-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 45 | 50% |
-| Greedy | 33 | 37% |
+| Array | 45 | 49% |
+| Greedy | 33 | 36% |
 | Binary Tree | 30 | 33% |
 | Tree | 30 | 33% |
-| Depth-First Search | 27 | 30% |
-| Breadth-First Search | 21 | 23% |
+| Depth-First Search | 28 | 31% |
+| Breadth-First Search | 22 | 24% |
 | Hash Table | 20 | 22% |
 | Heap (Priority Queue) | 18 | 20% |
 | Sorting | 18 | 20% |
-| String | 15 | 17% |
+| String | 15 | 16% |
 
 ## Topics
 
@@ -59,19 +59,19 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Binary Tree](Topics/binary-tree/) | 30 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 21 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 22 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Stream](Topics/data-stream/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 27 |
+| [Depth-First Search](Topics/depth-first-search/) | 28 |
 | [Design](Topics/design/) | 4 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Game Theory](Topics/game-theory/) | 1 |
-| [Graph Theory](Topics/graph/) | 3 |
+| [Graph Theory](Topics/graph/) | 4 |
 | [Greedy](Topics/greedy/) | 33 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 20 |
