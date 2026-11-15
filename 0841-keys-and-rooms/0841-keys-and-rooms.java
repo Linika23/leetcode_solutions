@@ -1,0 +1,31 @@
+class Solution {
+    private void dfs(List<List<Integer>> rooms,int index,boolean[] visited){
+        visited[index]=true;
+       
+        for (int i = 0; i < rooms.get(index).size(); i++) {
+            int key = rooms.get(index).get(i);
+            if (!visited[key]) {
+                dfs(rooms, key, visited);
+            }
+        }
+    
+    } 
+    public boolean canVisitAllRooms(List<List<Integer>> rooms) {
+        int n = rooms.size();
+
+        
+        
+
+        boolean[] visited = new boolean[n];
+        dfs(rooms,0,visited);
+        for(int i =0;i<n;i++){
+            if(!visited[i]){
+                return false;
+            }
+
+        }
+
+        return true;
+        
+    }
+}
