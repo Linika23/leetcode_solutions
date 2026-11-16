@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-15T08:25:58.580Z",
+  "updatedAt": "2026-11-16T16:28:01.716Z",
   "problems": [
     {
       "frontendId": "94",
@@ -424,6 +424,26 @@
           "path": "0733-flood-fill/0733-flood-fill.java",
           "sha": "be239cc565dd27a92ce744db8094b093c26a8c55",
           "lastSyncedAt": "2026-11-04T14:50:27.680Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "785",
+      "title": "Is Graph Bipartite?",
+      "slug": "is-graph-bipartite",
+      "problemName": "0785-is-graph-bipartite",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/is-graph-bipartite/",
+      "folderPath": "0785-is-graph-bipartite/",
+      "readmePath": "0785-is-graph-bipartite/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0785-is-graph-bipartite.java",
+          "path": "0785-is-graph-bipartite/0785-is-graph-bipartite.java",
+          "sha": "b5a93c545cd2653c895044d43a15fb8cad542438",
+          "lastSyncedAt": "2026-11-16T16:28:01.716Z"
         }
       ]
     },
