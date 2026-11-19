@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 92 | 19 | 60 | 13 |
+| 93 | 19 | 61 | 13 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 7 days | 45 |
+| 1 days | 7 days | 46 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
 | 2026-10-29 | 1 |
@@ -30,20 +29,21 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-11-14 | 1 |
 | 2026-11-15 | 1 |
 | 2026-11-16 | 1 |
+| 2026-11-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 45 | 49% |
-| Greedy | 33 | 36% |
-| Binary Tree | 30 | 33% |
-| Tree | 30 | 33% |
-| Depth-First Search | 29 | 32% |
-| Breadth-First Search | 23 | 25% |
+| Array | 45 | 48% |
+| Greedy | 33 | 35% |
+| Binary Tree | 30 | 32% |
+| Depth-First Search | 30 | 32% |
+| Tree | 30 | 32% |
+| Breadth-First Search | 24 | 26% |
 | Hash Table | 20 | 22% |
-| Heap (Priority Queue) | 18 | 20% |
-| Sorting | 18 | 20% |
+| Heap (Priority Queue) | 18 | 19% |
+| Sorting | 18 | 19% |
 | String | 15 | 16% |
 
 ## Topics
@@ -59,20 +59,21 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Binary Tree](Topics/binary-tree/) | 30 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 23 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 24 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Stream](Topics/data-stream/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 29 |
+| [Depth-First Search](Topics/depth-first-search/) | 30 |
 | [Design](Topics/design/) | 4 |
+| [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [DP on Trees](Topics/dp-on-trees/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph Coloring](Topics/graph-coloring/) | 1 |
-| [Graph Theory](Topics/graph/) | 5 |
+| [Graph Theory](Topics/graph/) | 6 |
 | [Greedy](Topics/greedy/) | 33 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 20 |
@@ -95,6 +96,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 15 |
 | [Timsort](Topics/timsort/) | 1 |
+| [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 30 |
 | [Trie](Topics/trie/) | 1 |
