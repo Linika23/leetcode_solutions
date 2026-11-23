@@ -6,17 +6,16 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 94 | 19 | 62 | 13 |
+| 95 | 19 | 62 | 14 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 7 days | 47 |
+| 1 days | 7 days | 48 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-27 | 1 |
 | 2026-10-29 | 1 |
 | 2026-10-31 | 2 |
 | 2026-11-01 | 4 |
@@ -30,21 +29,22 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | 2026-11-16 | 1 |
 | 2026-11-19 | 1 |
 | 2026-11-20 | 1 |
+| 2026-11-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 45 | 48% |
+| Array | 45 | 47% |
 | Greedy | 33 | 35% |
 | Depth-First Search | 31 | 33% |
 | Binary Tree | 30 | 32% |
 | Tree | 30 | 32% |
-| Breadth-First Search | 25 | 27% |
-| Hash Table | 20 | 21% |
+| Breadth-First Search | 26 | 27% |
+| Hash Table | 21 | 22% |
 | Heap (Priority Queue) | 18 | 19% |
 | Sorting | 18 | 19% |
-| String | 15 | 16% |
+| String | 16 | 17% |
 
 ## Topics
 
@@ -52,14 +52,14 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | --- | ---: |
 | [Array](Topics/array/) | 46 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Bidirectional Search](Topics/bidirectional-search/) | 1 |
+| [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Lifting](Topics/binary-lifting/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 30 |
 | [Bipartite Graph](Topics/bipartite-graph/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 25 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 26 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
@@ -76,7 +76,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Graph Theory](Topics/graph/) | 7 |
 | [Greedy](Topics/greedy/) | 33 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 20 |
+| [Hash Table](Topics/hash-table/) | 21 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 18 |
 | [Iterator](Topics/iterator/) | 1 |
@@ -94,7 +94,7 @@ java and c++ solutions to leetcode problems with approach, complexity analysis a
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 18 |
 | [Stack](Topics/stack/) | 5 |
-| [String](Topics/string/) | 15 |
+| [String](Topics/string/) | 16 |
 | [Timsort](Topics/timsort/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
