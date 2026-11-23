@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-13T17:17:15.308Z",
+  "updatedAt": "2026-11-23T18:50:42.228Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.java",
           "sha": "40d4e683287b1751951ba674667b9e6ff2903a0f",
           "lastSyncedAt": "2026-09-20T17:30:22.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "127",
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "problemName": "0127-word-ladder",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
+      "folderPath": "0127-word-ladder/",
+      "readmePath": "0127-word-ladder/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0127-word-ladder.java",
+          "path": "0127-word-ladder/0127-word-ladder.java",
+          "sha": "607da65dd3b72c5ab3a8549f5dcfad8c6d5ef5a1",
+          "lastSyncedAt": "2026-11-23T18:50:42.228Z"
         }
       ]
     },
